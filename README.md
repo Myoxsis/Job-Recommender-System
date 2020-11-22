@@ -1,4 +1,5 @@
-# Scrappers for Job Site
+# Job Scrapping to aggregate data
+## Scrappers for Job Site
 
 	[] Richemont
 	[] Dassault Aviation
@@ -7,9 +8,9 @@
 	[] Sanofi
 	[] Air Liquide
 
-# -----------
-# For Each Scrapper
-# -----------
+## -----------
+## For Each Scrapper
+## -----------
 
 	[] Get offers link
 	[] Get offers details
