@@ -1,12 +1,12 @@
 # Job Scrapping to aggregate data
 ## Scrappers for Job Site
 
-	[x] Richemont
-	[x] Dassault Aviation
-	[x] Air France
-	[] Daher
-	[x] Sanofi
-	[] Air Liquide
+	[x] 	Richemont					[] 	Hermes
+	[x] 	Dassault Aviation
+	[x] 	Air France
+	[] 		Daher
+	[x] 	Sanofi
+	[] 		Air Liquide
 
 ## -----------
 ## For Each Scrapper
