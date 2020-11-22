@@ -1,8 +1,8 @@
 # Job Scrapping to aggregate data
 ## Scrappers for Job Site
 
-	[x] 	Richemont					[] 	Hermes
-	[x] 	Dassault Aviation
+	[x] 	Richemont					[x] 	Hermes
+	[x] 	Dassault Aviation			[]		
 	[x] 	Air France
 	[] 		Daher
 	[x] 	Sanofi
@@ -15,3 +15,11 @@
 	- Get offers link
 	- Get offers details
 	- Get offers desc
+
+## ----------
+## To do
+## ----------
+
+	[]		create function
+		[] 		scrapRichemont()
+		[]		scrapDassaultAviation()
