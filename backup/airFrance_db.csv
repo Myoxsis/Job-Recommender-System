@@ -1,0 +1,1651 @@
+,Position,link,Company,Department,Location,desc
+0,STAGE - Ingénieur en Recherche Opérationnelle H/F,/offre-de-emploi/emploi-stage-ingenieur-en-recherche-operationnelle-h-f_11244.aspx,Air France,N/A,"[<li>Convention de stage</li>, <li>Ile-de-France</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Avec le premier réseau long-courrier au départ de l'Europe, Air France est un acteur majeur du transport aérien mondial. Ses principaux métiers sont le transport aérien de passagers, de fret et la maintenance aéronautique.  
+                
+
+
+                        Référence
+                    
+                    2020-11244  
+                
+Description du poste
+	Intitulé du poste
+STAGE - Ingénieur en Recherche Opérationnelle H/F
+	Métier
+Systèmes d'informations - Développement
+	Catégorie socio-professionnelle
+Stagiaire
+	Présentation du contexte
+
+Le Revenue Management a pour objectif de maximiser le revenu de la compagnie en jouant sur la disponibilité des différents tarifs fixés par le Pricing. Dans ce cadre, une des missions de la recherche opérationnelle est de développer un outil permettant de prédire la demande, d’anticiper les annulations, et de maximiser le revenu. Tous les jours, notre moteur d’optimisation permet de déterminer, en fonction de la prédiction de demande et de l’état actuel des réservations, la disponibilité optimale des différents tarifs. En raisons de contraintes historiques propre à l’industrie du transport aérien, les tarifs que nous sommes en mesure de proposer se limitent à un ensemble de 26 classes tarifaires. Dans un contexte d’amélioration des modèles actuels, nous avons la volonté de nous affranchir de cette contrainte de classes pour proposer un prix davantage personnalisé au client selon son profil (business, loisir, etc..). Ainsi, une approche de type Dynamic Pricing permettrait d’avoir une plus grande flexibilité et optimalité sur nos tarifs. 
+
+	Description de la mission
+
+Rattaché(e) au département de Recherche Opérationnelle d’Air France-KLM, et sous la responsabilité de votre maître de stage, votre mission consistera à : Implémenter et à tester un modèle de machine learning permettant de déterminer le prix optimal pour un profil de consommateur donné. Pour ce faire, vous disposerez comme point de départ du modèle de prévision des parts de marchés que vous serez chargé(e) de refondre afin qu’il soit adapté à la prévision d’un prix optimal.Explorer de nouveaux algorithmes de machine learning / deep learning est à prévoir. 
+
+	Profil recherché
+
+Vous êtes étudiant(e) en dernière année d'Ecole d'Ingénieur ou en Master 2 en Recherche Opérationnelle, et vous recherchez un stage pour une durée de 6 mois. Vous êtes intéressé(e) par la data science et ses applications au domaine du transport aérien, Rigoureux(se), autonome, vous avez de bonnes capacités d’analyse et de synthèse, et de bonnes aptitudes relationnelles, Vous maîtrisez le langage Python, les concepts de base de la data science, ainsi que les principaux algorithmes de machine learning.  
+
+	Type de contrat
+Convention de stage
+	Durée du contrat (mois) :
+6 mois
+	Date de prise de poste souhaitée
+01/03/2021
+	Type d'horaires
+ AdministratifProfil candidat
+	Spécialisation
+SYSTEMES D'INFORMATION
+	Niveau d'études min. requis
+Bac + 5 et plus / 3ème année grande école
+	Langue
+Anglais (3 - Confirmé)Localisation du poste
+	Localisation du poste
+France, Ile-de-France, Essonne (91)
+	Site
+
+	1 AVENUE DU MARECHAL DEVAUX 91551 PARAY VIEILLE POSTE
+
+"
+1,ALTERNANCE - Data Scientist H/F,/offre-de-emploi/emploi-alternance-data-scientist-h-f_11281.aspx,Air France,N/A,"[<li>Alternance et apprentissage</li>, <li>Ile-de-France</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Avec le premier réseau long-courrier au départ de l'Europe, Air France est un acteur majeur du transport aérien mondial. Ses principaux métiers sont le transport aérien de passagers, de fret et la maintenance aéronautique.  
+                
+
+
+                        Référence
+                    
+                    2020-11281  
+                
+Description du poste
+	Intitulé du poste
+ALTERNANCE - Data Scientist H/F
+	Métier
+Digital - e-Analyse
+	Catégorie socio-professionnelle
+Apprenti
+	Présentation du contexte
+
+Axe majeur de compétitivité dans l'industrie du transport aérien, la connaissance client et la personnalisation de l'offre commerciale est une des priorités du Groupe Air France KLM.Crée au sein de la Direction du Digital, le Customer Data Management a pour principales missions :  La collecte de la « vue 360° » du client et sa restitution aux différents acteurs de l’entreprise. La définition de la stratégie d’utilisation et valorisation de ces données.  La garantie du respect des règles GDPR
+
+	Description de la mission
+
+La vue 360° du client permet de consolider son parcours sur l’ensemble des points de contacts. La centralisation des données de billetterie, des call-centers, de réclamation, des sites internet et du parcours opérationnel du client offre de nouvelles opportunités en termes d’analytics. Rattaché(e) au service Management des Données Clients et sous la responsabilité de votre maître d'apprentissage « advanced analytics », vous aurez pour principale mission :Analyser le parcours multi-canal du client. La mission s’articulera autour des axes suivants:Dialoguer avec les différents métiers de l’expérience client pour identifier des problématiques. Analyser des statistiques et « dataviz » : Mettre en œuvre des algorithmes de « machine learning », des tests statistiques, de la programmation statistique,. Par exemple : démontrer l’impact de nos campagnes d’information « pro-active » en cas de retard sur la probabilité qu’un client émette une réclamation. Faire des recommandations d’amélioration du parcours client. Restituer et communiquer des résultats aux différentes parties prenantes.
+
+	Profil recherché
+
+Vous êtes étudiant(e) en Master II en Système d'Information avec une composante majeure en statistiques/datamining.Vous recherchez un contrat d'apprentissage pour une dureé de 12 mois.Alors Rejoignez nous ! Vous êtes rigoureux(se) et dynamique. Vous aimez le travail en équipe et êtes force de proposition. Vous êtes à l’aise avec les logiciels d’analyse et programmation statistique (ex : R,Python, SAS, Spark,…). Bonne connaissance du SQL nécessaire. Anglais indispensable (lu, parlé & écrut).  Merci de préciser dans votre CV ou lettre de motivation, le rythme de votre alternance et vos dates de disponibilité.Conformément aux engagements pris par Air France dans son accord 2018-2020 en faveur de l'emploi des personnes en situation de handicap, nos contrats en alternances sont ouverts à tous. 
+
+	Type de contrat
+Alternance et apprentissage
+	Durée du contrat (mois) :
+12
+	Date de prise de poste souhaitée
+25/01/2021
+	Temps partiel possible
+Non
+	Type d'horaires
+ AdministratifProfil candidat
+	Spécialisation
+AERONAUTIQUEGENERALISTESTATISTIQUESSYSTEMES D'INFORMATION
+	Niveau d'études min. requis
+Bac + 5 et plus / 3ème année grande école
+	Niveau d'expérience min. requis
+Sans expérience
+	Langue
+Anglais (3 - Confirmé)Localisation du poste
+	Localisation du poste
+France, Ile-de-France, Val d'Oise (95)
+	Site
+
+	45 rue de Paris 95747 ROISSY CHARLES DE GAULLE CEDEX
+
+"
+2,ALTERNANCE – Assistance à Maîtrise d'Ouvrage -  Amélioration de la Performance Opérationnelle H/F,/offre-de-emploi/emploi-alternance-assistance-a-maitrise-d-ouvrage-amelioration-de-la-performance-operationnelle-h-f_11081.aspx,Air France,N/A,"[<li>Alternance et apprentissage</li>, <li>Ile-de-France</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Avec le premier réseau long-courrier au départ de l'Europe, Air France est un acteur majeur du transport aérien mondial. Ses principaux métiers sont le transport aérien de passagers, de fret et la maintenance aéronautique.  
+                
+
+
+                        Référence
+                    
+                    2020-11081  
+                
+Description du poste
+	Intitulé du poste
+ALTERNANCE – Assistance à Maîtrise d'Ouvrage -  Amélioration de la Performance Opérationnelle H/F
+	Métier
+Systèmes d'informations - Maîtrise d'ouvrage
+	Catégorie socio-professionnelle
+Apprenti
+	Présentation du contexte
+
+L’activité principale d’Air France-KLM consiste à transporter des Passagers mais ses avions transportent en même temps plusieurs tonnes de Cargo en soute. Le transport de marchandises est en effet le 2nd métier du Groupe.Dans un contexte de difficultés économiques accrues, l’accent est fortement mis sur le développement du Système d’Information (SI) afin d’accroître notre efficacité globale. Le département Assistance à Maîtrise d’Ouvrage aide à concevoir de nouveaux systèmes informatiques ou perfectionner les outils existants, afin de faciliter le travail du personnel de la direction Cargo, et faciliter la communication avec nos clients. Il s’agit d’une fonction clé de l’entreprise, située au carrefour de l’informatique et des métiers opérationnels.La mission portera plus particulièrement sur les systèmes d’information liés à la mesure de notre Performance opérationnelle (CiQ);
+
+	Description de la mission
+
+Rattaché(e) au Service Assistance à Maîtrise d’Ouvrage Cargo (Information Management Office en Anglais) et sous la responsabilité de votre Maître d’Apprentissage, votre mission sera partagée entre le Service Assistance Maîtrise d’Ouvrage et le Service Performance Opérationnelle de la Direction Cargo. Vous interviendrez dans les domaines suivants : 1/ Gestionnaire fonctionnel applicatif CiQPérimètre fonctionnel concerné : CiQ (Mesure de la Performance des Opérations Cargo)http://www.iata.org/whatwedo/cargo/cargoiq/Pages/index.aspxAssurer le suivi fonctionnel des outils de mesure de la Performance, basés sur le standard mondial CiQ de l’Association Internationale du Transport Aérien (IATA). 2/ Gestion des anomalies en Production et amélioration des résultats CiQ :Analyser fonctionnelle des anomalies et analyse des messages utilisés par les différents SI : déterminer contexte, occurrence, impact. Rechercher de solutions fonctionnelles, conjointement avec le métier et l’informatique. Coordonner la communication MOE /MOA. Prioriser de la liste des anomalies. détermination des instructions données à l’IT. Organiser les réunions de suivi des anomalies. Suivre le planning, assurer les relances éventuelles, faire des remontées d’alertes vers le responsable de service La mission se déroule sur les 2 sites de la Direction Cargo : au Siège d'Air France,  45 rue de Paris 95747 ROISSY CHARLES DE GAULLE CEDEX, et à la gare de Fret G1XL en zone de Fret de l'aéroport CDG. 
+
+	Profil recherché
+
+Vous êtes étudiant(e) en alternance et vous préparez un Master 2 (MIAGE, Systèmes d'Informations...) ou en dernière année d'Ecole d'Ingénieur.  Rigoureux (se), autonome, vous avez de bonnes capacités d’analyse et de synthèse, et de bonnes aptitudes relationnelles. Vous êtes attiré(e) par les systèmes d’information. Niveau d’anglais requis : équivalent B1 Bulats.  Merci de préciser dans votre CV ou lettre de motivation, le rythme de votre alternance. Conformément aux engagements pris par Air France dans son accord 2018-2020 en faveur de l’emploi des personnes en situation de handicap, nos contrats sont ouverts à tous.
+
+	Type de contrat
+Alternance et apprentissage
+	Durée du contrat (mois) :
+12 mois 
+	Date de prise de poste souhaitée
+05/10/2020
+	Type d'horaires
+ AdministratifProfil candidat
+	Spécialisation
+SYSTEMES D'INFORMATION
+	Niveau d'études min. requis
+Bac + 5 et plus / 3ème année grande école
+	Niveau d'expérience min. requis
+- de 6 mois
+	Langue
+Anglais (3 - Confirmé)Localisation du poste
+	Localisation du poste
+France, Ile-de-France, Val d'Oise (95)
+	Site
+
+	45 rue de Paris 95747 ROISSY CHARLES DE GAULLE CEDEX
+
+"
+3,ALTERNANCE – Business Enterprise Architect SI Finance/Achat H/F,/offre-de-emploi/emploi-alternance-business-enterprise-architect-si-finance-achat-h-f_11103.aspx,Air France,N/A,"[<li>Alternance et apprentissage</li>, <li>Ile-de-France</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Avec le premier réseau long-courrier au départ de l'Europe, Air France est un acteur majeur du transport aérien mondial. Ses principaux métiers sont le transport aérien de passagers, de fret et la maintenance aéronautique.  
+                
+
+
+                        Référence
+                    
+                    2020-11103  
+                
+Description du poste
+	Intitulé du poste
+ALTERNANCE – Business Enterprise Architect SI Finance/Achat H/F
+	Métier
+Systèmes d'informations - Maîtrise d'ouvrage
+	Catégorie socio-professionnelle
+Apprenti
+	Présentation du contexte
+
+L'Assistance à Maîtrise d'ouvrage (AMO) Finance & Achats est une fonction clef de l’entreprise, située au carrefour de l’informatique et des métiers opérationnels pour la Direction Finance d’Air France KLM.  Le rôle de « Business Enterprise Architect » (BEA) au sein de l’équipe AMO Finance s’articule autour des axes suivants : Le management des processus fonctionnels  Le management de la Data  L’animation et la gestion de la roadmap Métier Finance L’accompagnement des projets et évolutions du système d’information L’optimisation du paysage applicatif/IT  L’application des règles de « compliancy » et de sécurité La veille Métier & technologique  Le BEA travaille en transversal avec toutes les entités Métiers de la Finance, l’équipe AMO Finance et l’informatique. 
+
+	Description de la mission
+
+Au sein de l’équipe BEA composée de trois personnes et sous la responsabilité de votre maître d'apprentissage, vous participerez aux missions suivantes : Manager des processus fonctionnels Finance / Achats  Cartographier, modéliser, optimiser, pérenniser les processus Finances & Achat du Groupe Air France KLM et identifier les processus robotisés (« Robotic Process Automation»)  Echanger avec les différents métiers et les équipes de l’Assistance à Maîtrise d’Ouvrage  Participer aux ateliers de travail dans le cadre des pré-études de projets  Effectuer le management de la Data dans le cadre de la stratégie globale du groupe AFKLM] etgarantir l’accessibilité, la consistance, l’intégrité de la data pour les besoins fonctionnels du métier Finance/ Achats  Contribuer à l’élaboration du glossaire de la donnéeAccompagner les data stewards du domaine Finance & achats  Mettre à jour la cartographie applicativeet participer à la pré étude des projets  Préparer des supports, en vue de présenter les analyses, les réalisations, la gestion du changement etc. 
+
+	Profil recherché
+
+Vous êtes étudiant(e) en Licence MIAGE ou école d’ingénieur et vous recherchez un contrat d’apprentissage pour une durée de 12 à 24 mois. Vous possédez une expérience technico-fonctionnelle (manipuler la data, et les outils de modélisation-conventions Archimate + BPMN).  Vous souhaitez-vous investir ou découvrir les systèmes financiers (notamment ERP SAP…).  Vous êtes ouvert et curieux (se) et aimez partager vos connaissances et votre savoir-faire.  Vous possédez un bon niveau d'anglais (lu, parlé, écrit)  Force de proposition, vous aimez les challenges. Alors rejoignez-nous vite ! Vos chances seront d’autant plus grandes avec un CV, une lettre de motivation personnalisée ainsi qu'un ou deux contacts qui peuvent vous recommander.   Merci de préciser sur votre CV ou lettre de motivation, la durée et le rythme d’alternance.   Conformément aux engagements pris par Air France dans son accord 2018-2020 en faveur de l'emploi des personnes en situation de handicap, nos contrats en alternance sont ouverts à tous.
+
+	Type de contrat
+Alternance et apprentissage
+	Durée du contrat (mois) :
+24 MOIS
+	Date de prise de poste souhaitée
+01/10/2020
+	Temps partiel possible
+Non
+	Type d'horaires
+ AdministratifProfil candidat
+	Spécialisation
+ECONOMIE FINANCESYSTEMES D'INFORMATION
+	Niveau d'études min. requis
+Bac + 4 / 2ème année grande école
+	Langue
+Anglais (3 - Confirmé)Localisation du poste
+	Localisation du poste
+France, Ile-de-France, Val d'Oise (95)
+	Site
+
+	45 rue de Paris 95747 ROISSY CHARLES DE GAULLE CEDEX
+
+"
+4,ALTERNANCE - Business Analyst Marketing H/F,/offre-de-emploi/emploi-alternance-business-analyst-marketing-h-f_11153.aspx,Air France,N/A,"[<li>Alternance et apprentissage</li>, <li>Ile-de-France</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Avec le premier réseau long-courrier au départ de l'Europe, Air France est un acteur majeur du transport aérien mondial. Ses principaux métiers sont le transport aérien de passagers, de fret et la maintenance aéronautique.  
+                
+
+
+                        Référence
+                    
+                    2020-11153  
+                
+Description du poste
+	Intitulé du poste
+ALTERNANCE - Business Analyst Marketing H/F
+	Métier
+Systèmes d'informations - Maîtrise d'ouvrage
+	Catégorie socio-professionnelle
+Apprenti
+	Présentation du contexte
+
+L’Information Management Office Commercial (IMO Commercial) est au coeur des grands projets d’innovation technologique de plusieurs directions du Groupe.Air France KLM : Commercial & Revenue, Sales & Alliances et Customer Experience.Au sein du service, vous serez amené(e) à traiter divers projets, liés au fonctionnement et à l’amélioration des systèmes d’information supportant Flying Blue, le programme de fidélisation d’Air France-KLM.Le programme Flying Blue a été totalement redéfini en 2018 et continue à se développer et permet aujourd’hui à plusieurs millions de clients de cumuler des miles lors de leur voyage, et de les échanger contre des billets d'avions, des locations de voitures ou des nuits d'hôtels par exemple.Le rôle de l’assistance à la maîtrise d'ouvrage (AMO) est d’évaluer les opportunités technologiques, définir les solutions (architecture, stratégie de déploiement…) et de rendre possible leur réalisation (périmètre, planning…).Vous serez donc en dialogue constant entre les Maîtrises d’ouvrage (Direction Flying Blue) et les maîtrises d’oeuvre (Directions informatiques et prestataires extérieurs), et travaillerez selon les concepts Agile.Vous évoluerez dans un contexte international.
+
+	Description de la mission
+
+Rattaché(e) au sein du service ""Information Management Office Commercial"" et sous la responsabilité de votre Maître d'apprentissage, après avoir pris connaissance du contexte spécifique au transport aérien et au projet sur lequel vous interviendrez, votre principale mission consistera à : Assurer le suivi et piloter les évolutions des processus principaux du produitFlying Blue (nouveaux partenariats, évolution de l’offre, évolutions techniques…) Répondre aux besoins des utilisateurs en assurant l'évolution des outils informatiques du groupe. Assister les services communication et partenariats Flying Blue, les équipestechniques  de  maintenance. Recueillir et instruirez les demandes d’évolutions du SI. Participer à l’organisation et l’animation des ateliers permettant de contribuer àl’expression des besoins. Assurer et vérifierez la formalisation des users stories : diagnostic, enjeux,description des processus métiers; Valider la conformité des réalisations de la maîtrise d’oeuvre avec le besoin. Assurer la mise à jour de la documentation du SI qui vous sera confiée.
+
+	Profil recherché
+
+Vous êtes étudiant(e) en 2ème ou 3ème année d'Ecole d'Ingénieur ou en Master I ou II, spécialité système d’information, et vous recherchez un contrat d'apprentissage  pour une durée de 24 mois. De nature autonome, rigoureux(se) et responsable, vous savez impérativementtravailler en équipe. Vous possédez de bonnes capacités de synthèse, d’analyse et de clarté rédactionnelle. Vous savez faire preuve d’initiatives et d’autonomie. Vous êtes attiré(e) par les nouvelles technologies et le contact utilisateur. Enfin des connaissances en méthode de projet, en bureautique et en outilscollaboratifs seraient appréciées. La maîtrise de l’anglais est indispensable. Merci de préciser dans votre CV ou lettre de motivation, le rythme de votre alternance et vos dates de disponibilité. Conformément aux engagements pris par Air France dans son accord 2018-2020 en faveur de l'emploi des personnes en situation de handicap, nos contrats en alternances sont ouverts à tous.
+
+	Type de contrat
+Alternance et apprentissage
+	Durée du contrat (mois) :
+24
+	Date de prise de poste souhaitée
+07/12/2020
+	Type d'horaires
+ AdministratifProfil candidat
+	Spécialisation
+SYSTEMES D'INFORMATION
+	Niveau d'études min. requis
+Bac + 4 / 2ème année grande école
+	Langue
+Anglais (3 - Confirmé)Localisation du poste
+	Localisation du poste
+France, Ile-de-France, Val d'Oise (95)
+	Site
+
+	45 rue de Paris 95747 ROISSY CHARLES DE GAULLE CEDEX
+
+"
+5,INGENIEUR SYSTEME BLUELINK H/F,/offre-de-emploi/emploi-ingenieur-systeme-bluelink-h-f_10386.aspx,Air France,N/A,"[<li>CDI</li>, <li>Ile-de-France</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Créée en 1992, Bluelink est une filiale d'Air France. Par une approche conseil qui s'appuie sur la stratégie de chaque marque, les équipes de BlueLink accompagnent les entreprises dans la conception, la mise en place et le développement de leur relation client, pour en faire un facteur clé de réussite. Filiale d'Air France spécialisée dans les secteurs du déplacement (et notamment du transport aérien), du tourisme, du luxe et de la culture, BlueLink compte aujourd'hui 2000 collaborateurs à travers le monde.  
+                
+
+
+                        Référence
+                    
+                    2019-10386  
+                
+Description du poste
+	Intitulé du poste
+INGENIEUR SYSTEME BLUELINK H/F
+	Métier
+Systèmes d'informations - Infrastructures & Production informatique
+	Catégorie socio-professionnelle
+Cadre
+	Présentation du contexte
+
+Créée en 1992, BlueLink est une entreprise spécialisée dans la relation client.Filiale d’Air France, dont l’activité consiste à gérer la relation client à distance d’acteurs du transport aérien, mais aussi de marques prestigieuses dans les secteurs du luxe, de la culture et du tourisme, BlueLink compte aujourd’hui 2000 collaborateurs à travers le monde.Afin d’accompagner le développement de notre business, particulièrement boosté par le e-commerce, notre Direction des Systèmes d’Information recherche un Ingénieur Système.
+
+	Description de la mission
+
+Votre équipe : Vous rejoignez le pôle Infrastructure auprès de l’IT Service Manager, au sein d’une équipe composée de plusieurs ingénieurs système.Votre rôle : En tant qu’ingénieur système, vous intervenez dans le cadre du maintien en condition opérationnelle des systèmes d’information.Votre mission principale : Garantir la disponibilité, la performance et la sécurité des différentes infrastructures système du Groupe BlueLink.·         Administration / Support : administrer et assurer l’exploitation des différentes infrastructures système (hyperviseurs, SAN, machines virtuelles, services, …), la résolution d’incidents de niveau 2/3. Gérer les demandes de changement et l’évolution des systèmes.·         Réaliser les intégrations et gérer les déploiements selon les modes opératoires définis. Concevoir les architectures et mettre à jour les procédures d’exploitation système.·         Apporter vos connaissances sur les choix techniques, les architectures et leur intégration dans le cadre des évolutions et nouveaux projets. Assurer une veille technologique de façon intensive et régulière sur les différents périmètres systèmes.·         Analyser les spécifications des nouvelles infrastructures et participer à leur mise en œuvre en apportant une expertise technique.·         Astreintes et opérations en HNO à prévoir·         Déplacements occasionnels en France et à l’étranger  
+
+	Profil recherché
+
+Votre profil :Vous possédez une expérience de plus de 3 ans sur un poste similaire. Vous maîtrisez les environnements systèmes, la virtualisation et avez une bonne compréhension générale d’un réseau d’entreprise ? Vous avez une capacité à élaborer des solutions informatiques, gérer un projet, concevoir et faire évoluer les architectures techniques ?Vous êtes le candidat idéal pour nous rejoindre, si vous êtes reconnu(e) pour … Votre autonomie, votre rigueur, méthodologie, votre réactivité ; Votre aisance relationnelle, ainsi que votre maîtrise de l’anglais au quotidien ; Vous avez des compétences majeures dans les domaines suivants : - Cloud : Azure, O365 - Infrastructures : Hyperconvergées et traditionnelles (hyperviseurs, SAN) - Systèmes : VMWare, Windows Server (Windows 2008 à 2019), Citrix - Services : Active Directory (ADDS, ADFS,…), DNS, DHCP, NTP, File and Storage, IIS, Radius … - Scripting : Powershell - Sauvegardes : Veeam, Rubrik, Azure Backup - Connaissance du référentiel ITILVous avez des connaissances et/ou expériences sur au moins une des technologies suivantes : - Postes de travail (virtualisés ou physique) : Windows 10 / 7, clients légers - Antimalware/IPS/HIP: McAfee - Corrélation de logs (SIEM) : Solarwinds Log & Event Manager (LEM) - Autres outils : Service desk (SysAid), automatisation/orchestration, surveillance (ServiceNAV, Centreon, Dynatrace), mobilité (MDM) Une connaissance des bonnes pratiques des normes de sécurité (type ISO 27001, PCI DSS…) et réglementations (GDPR) est fortement appréciée.Pourquoi nous rejoindre ?Participer à des projets stimulants, au sein d’une équipe IT partagée entre Ivry et Prague Rémunération : salaire fixe, variable sur objectifs, participation, intéressement Avantages sociaux : CSE, mutuelle, prévoyance, restaurant inter-entreprises, participation aux frais de transport Conditions de travail : flexibilité des horaires et possibilité de télé travailler Vacances : jours de congés supplémentaires, accès aux tarifs réduits du groupe Localisation : Ivry-sur-Seine (94), aux portes de Paris et à 5 minutes des tra Ce poste est soumis à un contrat BLUELINK. Pour postuler à cette offre, adresser votre candidature (CV et lettre de motivation) à recrutement@bluelinkservices.com sous la référence ""INGENIEUR SYSTEME H/F"" ou sur le site internet Bluelink  https://jobs.bluelinkservices.com/jobs/ingenieur-systeme-h-f--14203Afin que votre candidature soit prise en compte, merci de ne pas postuler sur le site Air France. En postulant à cette annonce, vous consentez à ce que vos données à caractère personnel soient collectées et traitées par BlueLink dans le cadre du recrutement. Ces données seront automatiquement supprimées 24 mois aprèsle dernier contact.Conformément à la réglementation en vigueur vous pouvez exercer vos droitsd'accès, de rectification, d'opposition et de suppression en vous adressant à : recrutement@bluelinkservices.com   
+
+	Type de contrat
+CDI
+	Date de prise de poste souhaitée
+03/08/2020
+	Type d'horaires
+ AdministratifProfil candidat
+	Spécialisation
+SYSTEMES D'INFORMATIONLocalisation du poste
+	Localisation du poste
+France, Ile-de-France, Val de Marne (94)
+	Site
+
+	57 Rue Ledru Rollin, 94200 Ivry-sur-Seine
+
+"
+6,STAGE – Développeur Web Full Stack H/F,/offre-de-emploi/emploi-stage-developpeur-web-full-stack-h-f-_11258.aspx,Air France,N/A,"[<li>Convention de stage</li>, <li>Occitanie</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Avec le premier réseau long-courrier au départ de l'Europe, Air France est un acteur majeur du transport aérien mondial. Ses principaux métiers sont le transport aérien de passagers, de fret et la maintenance aéronautique.  
+                
+
+
+                        Référence
+                    
+                    2020-11258  
+                
+Description du poste
+	Intitulé du poste
+STAGE – Développeur Web Full Stack H/F 
+	Métier
+Systèmes d'informations - Développement
+	Catégorie socio-professionnelle
+Stagiaire
+	Présentation du contexte
+
+Au sein du Groupe AIR FRANCE – KLM, la Direction Générale des Systèmes d’Information est en charge de fournir les solutions informatiques qui supportent les métiers du Groupe : Le « Passage » (transport de passagers) Le « Cargo » (transport de marchandises) La « Maintenance » (maintenance aéronautique). D’une part, l’innovation occupe une place importante dans la stratégie du Groupe AFKL.D’autre part, la Transformation Digitale de l’entreprise a permis la mise en place de l’Agilité à l’échelle. Ces 2 facteurs font que l’activité de développement est très dynamique et que les équipes de développement bénéficient d’une autonomie croissante pour mettre en place les solutions informatiques dont le Groupe a besoin. Pour accompagner au mieux les équipes de développement, et dans une démarche DEVOPS, une application web interne nommée ATLASMAN a été mise en place pour permettre aux équipes projet de piloter les éléments suivants : - Dépôt de code source du projet (ATLASSIAN Bitbucket) - Compilation/Test automatique du code et déploiement automatique de l’application (ATLASSIAN Bamboo) - Espace documentaire du projet (ATLASSIAN Confluence) - Configuration de l’outil pour la gestion de la backlog du projet (ATLASSIAN Jira) - Gestion des membres de l’équipe du projet (ATLASSIAN Crowd) - Création des environnements de déploiement (TANZU Application Service anciennement appelé PIVOTAL Cloud Foundry) 
+
+	Description de la mission
+
+ATLASMAN est développée et maintenue par la cellule de support au développement (nommée TECC-SE pour « Training, Expertise, Coaching Center – Software Engineering) transverse à AFKL. ATLASMAN est en perpétuelle évolution :·       Les utilisateurs (1000+) proposent des évolutions qui sont ajoutées à la backlog·       Les équipes de support au développement proposent des automatisations de tâches répétitives·       L’équipe en charge de ATLASMAN maintient l’application à niveau en terme d’état de l’art·       La transformation DEVOPS ouvre de nouvelles perspectives d’automatisation L’équipe en charge de ATLASMAN est organisée en Kanban avec un product owner et plusieurs ingénieurs responsables de la conception et du développement (en plus de leurs autres activités en tant que membres de TECC-SE).  Rattaché(e) au service TECC-SE et sous la responsabilité de votre maître de stage, votre principale mission consistera à : Participer au développement de ATLASMAN Mettre en place un dashboard permettant de visualiser pour un projet donné les information suivantes (liste non exhaustive que l’on pourra étoffer)  Données JIRADernière version buildée + release date + lien vers la release noteDernière version déployée + release date + lien vers la release note  Données CROWDNotification si des membres de l’équipe sont marqués inactifs et doivent être supprimésDonnées BAMBOO  Pour les N derniers plans de buildNom du planDate de l’exécutionStatut OK/KO  Idem pour les M derniers plans de déploiementDonnées BITBUCKETLister les branches « actives »Lister les pull requests en attenteDonnées des environnements de déploiement nouvelle génération (Tanzu Application Service)  Liste des organisations et des espaces La mise en place de cette fonctionnalité va requérir :Des développements sur la partie front-end (Angular) pour l’affichage mais aussi sur la partie back-end (NodeJS, NestJS) pour la construction des données.  Vous participerez aussi à la vie de l’équipe en :Participer aux cérémoniaux Agile (Refinements, retrospectives)Analyser les user storiesDévelopper les solutions informatiques en respectant les technologies et les normes choisies par l’équipe.    
+
+	Profil recherché
+
+Vous êtes étudiant(e) en dernière année d’Ecole d’Ingénieur ou en Master 2 en Système d'Informations avec une spécialisation en développement logiciel.Vous recherchez un stage pour une durée de 6 mois. Vous êtes rigoureux(se), autonome, vous avez de bonnes capacités d’analyse et de synthèse ainsi que de bonnes aptitudes relationnelles. Vous êtes attiré(e) par les systèmes d’information. Vous maîtrisez la programmation Angular et NodeJS. Vous connaissez le framework NestJS. Anglais indispensable (lu, écrit, parlé) car vous évoluerez dans un contexte AFKL. Conformément aux engagements pris par Air France dans son accord 2018-2020 en faveur de l’emploi des personnes en situation de handicap, nos contrats sont ouverts à tous. 
+
+	Type de contrat
+Convention de stage
+	Durée du contrat (mois) :
+6 mois
+	Date de prise de poste souhaitée
+01/02/2021
+	Type d'horaires
+ AdministratifProfil candidat
+	Spécialisation
+SYSTEMES D'INFORMATION
+	Niveau d'études min. requis
+Bac + 5 et plus / 3ème année grande école
+	Langue
+Anglais (3 - Confirmé)Localisation du poste
+	Localisation du poste
+France, Occitanie, Haute Garonne (31)
+	Site
+
+	5 AVENE MAXWELL 31109 TOULOUSE
+
+"
+7,STAGE - Ingénierie Analyse des Paramètres Enregistrés de Vol H/F,/offre-de-emploi/emploi-stage-ingenierie-analyse-des-parametres-enregistres-de-vol-h-f_11252.aspx,Air France,N/A,"[<li>Convention de stage</li>, <li>Ile-de-France</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Avec le premier réseau long-courrier au départ de l'Europe, Air France est un acteur majeur du transport aérien mondial. Ses principaux métiers sont le transport aérien de passagers, de fret et la maintenance aéronautique.  
+                
+
+
+                        Référence
+                    
+                    2020-11252  
+                
+Description du poste
+	Intitulé du poste
+STAGE - Ingénierie Analyse des Paramètres Enregistrés de Vol H/F
+	Métier
+Exploitation & Opérations aériennes - Opérations aériennes & Préparation des Vols
+	Catégorie socio-professionnelle
+Stagiaire
+	Présentation du contexte
+
+Au sein de la Direction Générale de la Sécurité des Vols, le service d'analyse des vols d'Air France effectue l'analyse réglementaire des enregistrements des paramètres de vol avion (Flight Data Monitoring). L'analyse des vols traite les données les +700 vols quotidiens de la compagnie pour en extraire les signaux nécessaires à la surveillance et au maintien de la sécurité des vols au meilleur niveau en conformité avec la réglementation AIR.OPS. L'ingénierie Analyse des Vols à pour mission de :• Créer et fait évoluer en permanence des algorithmes de détection des signaux nécessaires à mesurer l'exposition aux risques. • Effectuer les inspections périodiques réglementaires assurant du bon fonctionnement des enregistreurs de crash (FDR/CVR/DLR).  • Doter et faire évoluer les outils nécessaires à la réalisation de ses missions.  • S'adapter aux évolutions technologiques (nouveaux avions, nouveaux enregistreurs...) 
+
+	Description de la mission
+
+Rattachée(e) au service Analyse des Vols et sous la responsabilité de votre maître de stage, votre principale mission consistera à : Préparer l’arrivée de l’A220 dans la flotte AIRFRANCE :L'Airbus A220 entre en service en septembre 2021 à AIRFRANCE et ses vols doivent être analysés dès le premier, en conformité avec la réglementation et les objectifs internes de la compagnie.  Créer La trame de décodage des paramètres des enregistreurs FDR et QAR par l'outil d'analyse des vols. Créer des algorithmes d'analyse, afin que les paramètres soient lus et analysés.
+
+	Profil recherché
+
+Vous êtes étudiant(e) en dernière année d'Ecole d'Ingénieur Aéronautique, ou en école d'Ingénieur Généraliste et vous êtes passionné(e) d'aéronautique.Vous recherchez un stage de fin d'étude de 6 mois.  Vos capacités d’analyse et de synthèse vous permettront de comprendre rapidement les caractéristiques et les enjeux liés à notre environnement. La programmation des algorithmes vous passionne.  Rigoureux(e) et organisé(e), vous disposez de bonnes qualités relationnelles et une aptitude à travailler en équipe.  Vous avez le sens de la discrétion et de la confidentialité.  Une expérience de pilotage est vivement souhaitée (PPL en cours par exemple).  Conformément aux engagements pris par Air France dans son accord 2018-2020 en faveur de l’emploi des personnes en situation de handicap, nos contrats sont ouverts à tous.
+
+	Type de contrat
+Convention de stage
+	Durée du contrat (mois) :
+6
+	Date de prise de poste souhaitée
+01/03/2021
+	Temps partiel possible
+Non
+	Type d'horaires
+ AdministratifProfil candidat
+	Spécialisation
+AERONAUTIQUE
+	Niveau d'études min. requis
+Bac + 5 et plus / 3ème année grande école
+	Langue
+Anglais (3 - Confirmé)Localisation du poste
+	Localisation du poste
+France, Ile-de-France, Val d'Oise (95)
+	Site
+
+	45 rue de Paris 95747 ROISSY CHARLES DE GAULLE CEDEX
+
+"
+8,Juriste HOP! CDD H/F,/offre-de-emploi/emploi-juriste-hop-cdd-h-f_11130.aspx,Air France,N/A,"[<li>CDD</li>, <li>Pays de la Loire</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Avec le premier réseau long-courrier au départ de l'Europe, Air France est un acteur majeur du transport aérien mondial. Ses principaux métiers sont le transport aérien de passagers, de fret et la maintenance aéronautique.  
+                
+
+
+                        Référence
+                    
+                    2020-11130  
+                
+Description du poste
+	Intitulé du poste
+Juriste HOP! CDD H/F
+	Métier
+Juridique - Juridique
+	Catégorie socio-professionnelle
+Cadre
+	Présentation du contexte
+
+HOP!, compagnie aérienne filiale du Groupe AIR FRANCE, recherche un(e) Juriste basé(e) sur le site de Bouguenais. La Direction juridique de HOP! assure une mission de Conseil pour les opérationnels dans leurs activités. Elle veille à la protection des intérêts de HOP ! dans le cadre de ses relations contractuelles et intervient pour l’ensemble des services de la compagnie, notamment les services Achats, Maintenance et Flotte, ainsi que pour la direction générale de HOP!. Le juriste d’entreprise identifie les risques liés à l’activité et définit des supports et des montages contractuels adaptés, gère le pré-contentieux et le contentieux, et apporte conseil et support, en fonction de ses compétences, en matière de droit des sociétés (tant pour la direction générale de HOP! que pour sa filiale HOP!-Training).Le juriste travaille en collaboration avec l’équipe en place de la Direction Juridique de HOP! ainsi qu’avec ses homologues de la Direction juridique d’Air France, notamment sur la contractualisation de dossiers communs.
+
+	Description de la mission
+
+Vos principales missions seront de : Activité contractuelleAnalyser, rédiger et participer à la négociation des contrats, en français et en anglaisAssurer le suivi contractuelAssister et conseiller les opérationnels dans des domaines juridiques variés Activité pré-contentieuse et contentieuse commercialeAssurer le suivi de certains pré-contentieux et contentieux commerciauxA ce titre, assurer le suivi du dossier interne et avec les avocats Activité de conseil et activité rédactionnelleRédiger des déclarations de créances, des déclarations d’hypothèquesEtre l’interface entre les mandataires de justice et la sociétéAssurer le suivi des dossiers flotte (levée d’hypothèque, fin de financement, option d’achat etc.) Activité droit des sociétésRéaliser le secrétariat juridique de HOP ! et de sa filiale HOP !-Training (préparation des conseils de direction et des assemblées générales, rédaction des procès-verbaux, etc…)Conseiller en droit des sociétésRédiger des délégations de pouvoir et/ou de signatureSuivre les formalités légales en liaison avec le formaliste externe Activité assurancesVérifier les clauses idoines des contratsGérer certains sinistres (déclaration aux assureurs, instruction de dossiers, etc.) en l’absence du Responsable AssurancesAssister le Responsable Assurances dans le cadre de la gestion des polices d’assurance Actions de sensibilisation et de préventionÉlaborer et mettre à jour des canevas contractuels en français et en anglaisRédiger des supports juridiques à vocation pédagogiqueAnimer des ateliers juridiques destinés aux acheteurs et aux commerciauxSensibiliser les prescripteurs aux risques juridiques
+
+	Profil recherché
+
+Issu(e) d’une formation de niveau Master 2 en Droit des Affaires (droit des affaires, droit des contrats, droit des transports…) et bénéficiant d’au moins trois à cinq ans d’expérience en tant que juriste d’entreprise ou en cabinet d’avocat, vous connaissez idéalement le milieu de l’aérien et de l’aéronautique. Adaptable, vous êtes à l’aise dans un environnement opérationnel en constante évolution et savez agir dans divers domaines d’intervention en faisant preuve de créativité, de réactivité et d’ouverture d’esprit. Résistant(e) au stress, vous gérez les urgences et hiérarchisez les priorités selon les besoins de l’activité.Vous êtes rigoureux(se), disposez de qualités rédactionnelles reconnues et êtes à l’aise à l’oral.Doté(e) d’un fort esprit d’équipe, vous travaillez dans le respect de la confidentialité et de la discrétion inhérentes à la fonction. Niveau Bilingue en anglaisMaîtrise du Pack Office  Si ce poste vous intéresse, déposez votre candidature (CV + lettre de motivation)Sur : https://www.hop.fr/fr/content/juriste-d-entreprise-fh-cdd-bouguenais#no-back
+
+	Type de contrat
+CDD
+	Durée du contrat (mois) :
+12
+	Date de prise de poste souhaitée
+05/10/2020
+	Type d'horaires
+ AdministratifLocalisation du poste
+	Localisation du poste
+France, Pays de la Loire, Loire Atlantique (44)
+	Site
+
+	Bouguenais
+
+"
+9,Agent gestion des risques HOP! CDD H/F,/offre-de-emploi/emploi-agent-gestion-des-risques-hop-cdd-h-f_11231.aspx,Air France,N/A,"[<li>CDD</li>, <li>Ile-de-France</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Avec le premier réseau long-courrier au départ de l'Europe, Air France est un acteur majeur du transport aérien mondial. Ses principaux métiers sont le transport aérien de passagers, de fret et la maintenance aéronautique.  
+                
+
+
+                        Référence
+                    
+                    2020-11231  
+                
+Description du poste
+	Intitulé du poste
+Agent gestion des risques HOP! CDD H/F
+	Métier
+Administration & Moyens généraux - Sûreté
+	Catégorie socio-professionnelle
+Employé
+	Présentation du contexte
+
+HOP!, compagnie aérienne et filiale d’Air France, recherche pour sa Direction de la Sécurité des Vols et de la Conformité, un(e) Agent Gestion des Risques (F/H), basé(e) sur le site de Paray-Vieille-Poste (91). Dans le cadre du Système de Management de la Sécurité et afin de garantir un haut niveau de sécurité des opérations de HOP!, la Direction de la Sécurité des Vols et de la Conformité met en œuvre un process de gestion des risques, pour identifier les dangers liés à ses activités de transport aérien et en contrôler les risques.  
+
+	Description de la mission
+
+Dans un objectif de toujours faire progresser ce process et de renforcer son efficacité, supervisé(e) par le Délégué à la Gestion des Risques de la Compagnie vos principales missions seront de : -          Réceptionner, enregistrer et analyser les rapports depuis l’outil de gestion interne-          Suite à l’analyse, orienter les rapports vers les interlocuteurs adéquats-          Collecter les informations nécessaires au traitement des rapports auprès des entités internes ou externes-          Compléter les données manquantes des rapports grâces aux informations collectées-          Assurer le respect des obligations réglementaires-          Participer aux réunions d’exploitation hebdomadaires-          Surveiller la performance du traitement des rapports de la compagnie-          Assurer le support aux utilisateurs de l’outil interne
+
+	Profil recherché
+
+Formation et niveau requis : Bac+3 ou expérience professionnelle significative équivalenteExpérience : Dans le domaine de la Sécurité des vols, de la conformité, de la QSE ou autre environnement normé Compétences techniques :·         Connaissances générales de la structure et du fonctionnement d’une compagnie aérienne·         Connaissances du domaine Sûreté Langue(s) : maîtrise de l’anglais général et vocabulaire utilisé dans l’aérien (écrit, lu, parlé)Logiciel(s) : maîtrise outil informatique bureautiqueCompétences comportementales :·            Analyse et synthèse·            Gestion des priorités et Réactivité·            Pédagogie·            Rigueur·            Confidentialité Si vous êtes intéressé(e) merci d'envoyer votre CV et une lettre de motivation à cette adresse mail : https://www.hop.fr/fr/content/agent-gestion-des-risques-fh-cdd-paray-vieille-poste-91-0#no-back  
+
+	Type de contrat
+CDD
+	Durée du contrat (mois) :
+10
+	Date de prise de poste souhaitée
+01/11/2020
+	Type d'horaires
+ AdministratifLocalisation du poste
+	Localisation du poste
+France, Ile-de-France, Essonne (91)
+	Site
+
+	Paray-Vieille-Poste
+
+"
+10,RESPONSABLE COMPTABILITÉ FOURNISSEURS TRANSAVIA H/F,/offre-de-emploi/emploi-responsable-comptabilite-fournisseurs-transavia-h-f_11242.aspx,Air France,N/A,"[<li>CDI</li>, <li>Ile-de-France</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Transavia, compagnie low-cost du groupe Air France-KLM, propose des vols réguliers moyen-courrier et charters à des prix très compétitifs au départ de la France, des Pays-Bas et de l'Allemagne vers 160 destinations vers l'Europe et le bassin méditerranéen. Transavia France, basée à Orly, Nantes et Lyon, est une compagnie aérienne en pleine croissance. De 30 avions à ce jour, Transavia France en exploitera 33 à la fin de l'année 2018. Elle est devenue la première compagnie low-cost à Orly, reconnue par ses clients pour son excellence de service et ses tarifs attractifs. Pour accompagner notre croissance, nous sommes à la recherche de nouveaux talents.  
+                
+
+
+                        Référence
+                    
+                    2020-11242  
+                
+Description du poste
+	Intitulé du poste
+RESPONSABLE COMPTABILITÉ FOURNISSEURS TRANSAVIA H/F
+	Métier
+Gestion Finances Achats - Finance
+	Catégorie socio-professionnelle
+Cadre
+	Description de la mission
+
+Sous la responsabilité du Responsable Comptabilité, le Responsable Comptabilité Fournisseurs (F/H) est en charge des missions suivantes:Management de l’équipe et animation,•Supervision de la comptabilisation des factures fournisseurs,•Suivi des notes de frais ( administration de l’outil,•Gestion des litiges fournisseurs,•Analyse des comptes fournisseurs (balance auxiliaire),•Contrôle des campagnes de règlements dans le respect des délais de paiements,•Suivi des procédures du contrôle interne,•Audit du service et des besoins d’évolution,•Communication et relationnel avec les fournisseurs,•Veille aux bonnes relations avec les sociétés du groupe AFKL, les CAC, les banques,•Planification et accompagnement de projetsToute activité en dehors de celles énumérées au titre des fonctions principales pourra être confiée au collaborateur dans le cadre de son activité en fonction de son évolution au sein du service et des besoins de l’entrepriseCe poste est soumis à contrat Transavia   
+
+	Profil recherché
+
+Bac 3 5 avec une spécialisation en comptabilitéExpérience de 5 ans dans une fonction similaireMaîtrise de l’anglais, tant à l’oral qu’à l’écritMaîtrise du Pack Office, Excel ndispensable et des logiciels comptables NetsuiteEsprit d’analyse et de synthèseRigueur, intégrité, sens de l’organisation, autonomie et capacité à reporter et àtravailler en équipe Les candidatures (CV et lettre de motivation) doivent parvenir par mail à l’adresse suivante:recrutement.sol@fr.transavia.com avec la référence de l’annonce : Responsable Comptabilité Fournisseurs 
+
+	Type de contrat
+CDI
+	Date de prise de poste souhaitée
+01/12/2020
+	Type d'horaires
+ AdministratifLocalisation du poste
+	Localisation du poste
+France, Ile-de-France, Essonne (91)
+	Site
+
+	Paray-Vieille-Poste
+
+"
+11,STAGE - Assistant Relations Sociales H/F,/offre-de-emploi/emploi-stage-assistant-relations-sociales-h-f_11123.aspx,Air France,N/A,"[<li>Convention de stage</li>, <li>Ile-de-France</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Avec le premier réseau long-courrier au départ de l'Europe, Air France est un acteur majeur du transport aérien mondial. Ses principaux métiers sont le transport aérien de passagers, de fret et la maintenance aéronautique.  
+                
+
+
+                        Référence
+                    
+                    2020-11123  
+                
+Description du poste
+	Intitulé du poste
+STAGE - Assistant Relations Sociales H/F
+	Métier
+Ressources humaines - RH, Relations sociales
+	Catégorie socio-professionnelle
+Stagiaire
+	Présentation du contexte
+
+Au sein des Directions des Opérations Aériennes et du Service en Vol, (13600 Personnel Navigant Commercial, 3600 Pilotes et 1000 Personnel au Sol), le service des Relations Sociales est en charge de :• L'organisation de la vie des Instances Représentatives du Personnel :1 Comité d'Entreprise (CE) 3 Commission Santé, Sécurité et Conditions de Travail (CSSCT) 3 Délégués du Personnel (DP) • Du suivi des mandats des élus et de l'organisation des élections professionnelles (18000 salariés)
+
+	Description de la mission
+
+Rattaché(e) au Pôle Relations Sociales, et sous la responsabilité de votre maître de stagevos missions consisteront à : • Suivre la base Réclamations Individuelles et Collectives des représentants de proximitéPilotes sur des sujets aussi variés que les plannings, le respect des accords, la sûreté, lasécurité des vols, la maintenance. • Assister le Président de la CSSCT Pilotes sur le suivi des dossiers portés par les commissaires. • Contribuer à la rédaction des procédures du service. • Participer à l'élaboration du cahier des charges pour la mise en place d'un suivi automatisédes mandats. • Assister les membres de l'équipe dans leurs taches quotidiennes d'organisation des instances
+
+	Profil recherché
+
+Vous êtes étudiant(e) en Bac+4 en Master en Ressources Humaines et Relations Sociales et vous recherchez un stage d'une durée de 4 à 6 mois. • Vous êtes passionné(e) par le domaine aérien.• Rigoureux(se), autonome et dynamique, vous savez faire preuve d'adaptabilité.• Vous avez de bonnes capacités d’analyse et de synthèse.• Vous aimez le travail en équipe et avez de bonnes aptitudes relationnelles etrédactionnelles.• Vous maîtrisez le Pack Office.• Anglais indispensable ( Lu,écrit,parlé) Conformément aux engagements pris par Air France dans son accord 2018-2020 en faveurde l’emploi des personnes en situation de handicap, nos contrats sont ouverts à tous.
+
+	Type de contrat
+Convention de stage
+	Durée du contrat (mois) :
+6 mois
+	Date de prise de poste souhaitée
+02/11/2020
+	Temps partiel possible
+Non
+	Type d'horaires
+ AdministratifProfil candidat
+	Spécialisation
+RESSOURCES HUMAINES
+	Niveau d'études min. requis
+Bac + 5 et plus / 3ème année grande école
+	Langue
+Anglais (3 - Confirmé)Localisation du poste
+	Localisation du poste
+France, Ile-de-France, Val d'Oise (95)
+	Site
+
+	45 rue de Paris 95747 ROISSY CHARLES DE GAULLE CEDEX
+
+"
+12,STAGE – Développeur Application Web « Data Quality Management & Métrics » H/F,/offre-de-emploi/emploi-stage-developpeur-application-web-data-quality-management-metrics-h-f_11215.aspx,Air France,N/A,"[<li>Convention de stage</li>, <li>Provence-Alpes-Côte d'Azur</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Avec le premier réseau long-courrier au départ de l'Europe, Air France est un acteur majeur du transport aérien mondial. Ses principaux métiers sont le transport aérien de passagers, de fret et la maintenance aéronautique.  
+                
+
+
+                        Référence
+                    
+                    2020-11215  
+                
+Description du poste
+	Intitulé du poste
+STAGE – Développeur Application Web « Data Quality Management & Métrics » H/F
+	Métier
+Systèmes d'informations - Développement
+	Catégorie socio-professionnelle
+Stagiaire
+	Présentation du contexte
+
+Le Centre de Service Test AFKLM propose ses services à différentes équipes de développement que ce soit dans le domaine commercial, cargo, aéroportuaire. La qualité est aujourd’hui un axe indispensable dans un monde de plus en plus Agile.De nombreux projet sont aujourd’hui en organisation SAFE et demande un accompagnement et un suivi de plus en plus performant. Vous serez intégré(e) dans les équipes du Centre de Service de Test AFLKM. Vous travaillerez avec les différents Test Managers mais également avec nos clients.  
+
+	Description de la mission
+
+Au sein du centre de service de test et sous la responsabilité de votre maître de stage, nous souhaitons mettre en place un portail de métriques qualités pour faciliter la communication avec nos clients et améliorer le suivi qualité des projets. Pour développer cette solution nous travaillerons en mode agile (Scrum). Cet outil a pour but d’offrir l’accès et de traiter des données contenues dans divers outils du marché accessible via REST API.  Votre principale mission consistera à : Prendre en main de la solution existante. Établir avec les tests manager et nos client les besoins et les évolutions de la solution existante. Proposer une solution graphique et logicielle à ces spécifications, solution qui sera validée par le centre de service test et par les utilisateurs finaux. Développer de nouvelles fonctionnalités et services en Java/Angular sur ce portail QA à partir de données disponibles dans différent outils (ALM, Sonar, Xray …) Présenter l’accès aux données dans une interface graphique unifiée afin d’en simplifier l’accès aux utilisateurs finaux
+
+	Profil recherché
+
+Vous êtes étudiant(e) en 5ème année d’Ecole d’Ingénieur ou en Master II en développement Informatique et vous recherchez un stage pour une durée de 6 mois. Vous connaissez déjà JAVA, vous êtes orienté(e) développement Full Stack, notamment avec un intérêt vers la mise en place d’architecture REST pour front end mobiles et/ou clients légers. Vous êtes autonome, possédez des capacités d'analyse et de synthèse ainsi qu’un bon relationnel. L’application citée est sensible pour l’activité d’Air France. A ce titre elle exige également de la rigueur et de la précision. Anglais indispensable (lu, palé et écrit).  Conformément aux engagements pris par Air France dans son accord 2018 -2020 en faveur de l’emploi des personnes en situation de handicap, nos contrats sont ouverts à tous.
+
+	Type de contrat
+Convention de stage
+	Durée du contrat (mois) :
+6
+	Date de prise de poste souhaitée
+01/02/2021
+	Temps partiel possible
+Non
+	Type d'horaires
+ AdministratifProfil candidat
+	Spécialisation
+SYSTEMES D'INFORMATION
+	Niveau d'études min. requis
+Bac + 5 et plus / 3ème année grande école
+	Langue
+Anglais (2 - Intermédiaire)Localisation du poste
+	Localisation du poste
+France, Provence-Alpes-Côte d'Azur, Alpes Maritimes (06)
+	Site
+
+	SOPHIA ANTIPOLIS
+
+"
+13,STAGE – Développeur Web Distribution H/F,/offre-de-emploi/emploi-stage-developpeur-web-distribution-h-f_11209.aspx,Air France,N/A,"[<li>Convention de stage</li>, <li>Provence-Alpes-Côte d'Azur</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Avec le premier réseau long-courrier au départ de l'Europe, Air France est un acteur majeur du transport aérien mondial. Ses principaux métiers sont le transport aérien de passagers, de fret et la maintenance aéronautique.  
+                
+
+
+                        Référence
+                    
+                    2020-11209  
+                
+Description du poste
+	Intitulé du poste
+STAGE – Développeur Web Distribution H/F
+	Métier
+Systèmes d'informations - Développement
+	Catégorie socio-professionnelle
+Stagiaire
+	Présentation du contexte
+
+Air France et KLM ont décidé de mettre en place une « Base Voyage » (Travel Database) afin de stocker toutes les informations de nos clients concernant leurs voyages.Ce composant est critique dans notre système d’information car il est utilisé par plusieurs entitées dans notre entreprise. Plusieurs métiers différents se connectent à TravelDatabase pour leur propres besoins pour :Communiquer avec nos clients (pour les remercier, les informer que leur vol est annulé, …) Effectuer des prévisions de trafic en escale pour gérer les effectifs. Préparer les plateaux repas pour les vols long-courrier. Fournir des informations à nos agents en escale pour mieux accueillir nos clients. Créditer les Miles de nos clients FlyingBlue une fois qu’ils ont voyagé. Effectuer du yield management pour optimiser le remplissage des vols. 
+
+	Description de la mission
+
+Rattaché(e) au Pôle Distribution (DI.CB.DI) et sous la responsabilité de votre maître de stage, votre principale mission consistera à :Effectuer des développements sur l’interface Web de TravelDB. Réaliser les migrations des écrans existants dans l’ancienne version de l’IHM mais également créer des nouveaux écrans. Analyser les écrans à migrer sous l’ancienne IHM, ou analyser le nouveau besoin. Etudier et proposer des solutions qui peuvent répondre au besoin. Implémenter la solution retenue et s’assurer de sa correcte utilisation en Production. Participer aux réunions avec l’équipe Scrum. Etre acteur de son stage auprès des responsables de stage et techniques. Pour certaines solutions, il faudra également intervenir sur la partie backend de l’application Web.
+
+	Profil recherché
+
+Vous êtes étudiant(e) en dernière année d’école d’Ingénieur ou en Master 2 dans le domaine de l’informatique. Vous êtes intéressé(e) par le côté opérationnel et le développement Web. Rigoureux (se), autonome, vous avez de bonnes capacités d’analyse et de synthèse, et de bonnes aptitudes relationnelles. Vous êtes attiré(e) par les systèmes d’information. Vous souhaitez vous perfectionner en Java/Angular et vous avez un niveau correct en Anglais (lu, écrit, parlé).  Conformément aux engagements pris par Air France dans son accord 2018 -2020 en faveur de l’emploi des personnes en situation de handicap, nos contrats sont ouverts à tous.
+
+	Type de contrat
+Convention de stage
+	Durée du contrat (mois) :
+6
+	Date de prise de poste souhaitée
+01/02/2021
+	Temps partiel possible
+Non
+	Type d'horaires
+ AdministratifProfil candidat
+	Spécialisation
+SYSTEMES D'INFORMATION
+	Niveau d'études min. requis
+Bac + 5 et plus / 3ème année grande école
+	Langue
+Français (3 - Confirmé)Anglais (3 - Confirmé)Localisation du poste
+	Localisation du poste
+France, Provence-Alpes-Côte d'Azur, Alpes Maritimes (06)
+	Site
+
+	1201, route des Crêtes – 06901 Sophia Antipolis
+Informations CCA
+	Titulaire du CCA
+ Non
+"
+14,STAGE - Concepteur Développeur Java et Angular 8 H/F,/offre-de-emploi/emploi-stage-concepteur-developpeur-java-et-angular-8-h-f_11211.aspx,Air France,N/A,"[<li>Convention de stage</li>, <li>Provence-Alpes-Côte d'Azur</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Avec le premier réseau long-courrier au départ de l'Europe, Air France est un acteur majeur du transport aérien mondial. Ses principaux métiers sont le transport aérien de passagers, de fret et la maintenance aéronautique.  
+                
+
+
+                        Référence
+                    
+                    2020-11211  
+                
+Description du poste
+	Intitulé du poste
+STAGE - Concepteur Développeur Java et Angular 8 H/F
+	Métier
+Systèmes d'informations - Développement
+	Catégorie socio-professionnelle
+Stagiaire
+	Présentation du contexte
+
+Au sein du département de Développement des Solutions Application, le service Marketing & Customer Data Management a pour mission de développer et maintenir l'ensemble des applications du domaine Commercial traitant de la relation entre Air France-KLM et ses clients et plus précisément les référentiels individus, agences et firmes. Dans ce contexte, l’application Référentiel Individu est le référentiel des données des clients Air France-KLM, y compris du personnel Air France. Cette dernière est une application critique essentiellement backend, possédant une interface d’administration des données en complément des services techniques offerts. Cette application est au cœur du système informatique du groupe Air France-KLM. Elle est fortement sollicitée par :Plus de 30 applications clientes en temps réel. Plus de 20 applications clientes de la réplication générique (batch). Près de 5 millions d'appels temps réel par jour en moyenne 
+
+	Description de la mission
+
+Au sein d’une équipe de développement (dizaine de personnes) en agile (Kanban) intégrée à un train SAFe CDM (Customer Data Management) et sous la responsabilité de vôtre maître de stage, votre principale mission sera de : Contribuez au développement de nouvelles fonctionnalités de l’interface d’administration sous l’impulsion de l’équipe et du métier. Dans ce cadre, il vous faudra : Analyser les fonctionnalités existantes et recueillir les nouveaux besoins afin d’alimenter la backlog du produit. Participer aux cérémonies Agile et notamment à la priorisation des demandes. Identifier et proposer des axes d’amélioration à l’AMO/Business.Développer les fonctionnalités priorisées, les tester et les déployer. Assurer la phase de garantie sur ces dernières et prendre en compte les retours éventuels en Recette comme en Production. Documenter le travail réalisé aux travers des documents techniques de référence et des espaces documentaires en place.  
+
+	Profil recherché
+
+Vous êtes étudiant(e) dans le domaine de l'informatique en Master II ou en dernière année d'Ecole d'Ingénieur et vous recherchez un stage de fin d'études pour une dureé de 6 mois : Vous êtes :Rigoureux, dynamique, vous aimez le travail en équipe et êtes force de proposition. Autonome, curieu(se) et avez l’esprit d’initiative. Vous avez :De bonnes capacités d’analyse. La capacité à travailler en équipe dans un contexte multiculturel. Des connaissances/expériences en développement et base de données :  Vous maîtrisez les Outils :Eclipse, SqlDeveloper, Tomcat 7/8, PaaS, Visual Studio Code  Langage :Angular 8/REST, SCSS, J2EE, JavaScript, XML/JSON Autres: Hibernate, Spring, Log4J, Servlets, Commons, Jira/Bamboo Anglais indispensable : lu, parlé & écrit. Conformément aux engagements pris par Air France dans son accord 2018-2020 en faveur de l’emploi des personnes en situation de handicap, nos contrats sont ouverts à tous. 
+
+	Type de contrat
+Convention de stage
+	Durée du contrat (mois) :
+6
+	Date de prise de poste souhaitée
+01/02/2021
+	Temps partiel possible
+Non
+	Type d'horaires
+ AdministratifProfil candidat
+	Spécialisation
+SYSTEMES D'INFORMATION
+	Niveau d'études min. requis
+Bac + 5 et plus / 3ème année grande écoleLocalisation du poste
+	Localisation du poste
+France, Provence-Alpes-Côte d'Azur, Alpes Maritimes (06)
+	Site
+
+	SOPHIA ANTIPOLIS
+
+"
+15,STAGE - Concepteur Développeur BI - Clients H/F,/offre-de-emploi/emploi-stage-concepteur-developpeur-bi-clients-h-f_11201.aspx,Air France,N/A,"[<li>Convention de stage</li>, <li>Occitanie</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Avec le premier réseau long-courrier au départ de l'Europe, Air France est un acteur majeur du transport aérien mondial. Ses principaux métiers sont le transport aérien de passagers, de fret et la maintenance aéronautique.  
+                
+
+
+                        Référence
+                    
+                    2020-11201  
+                
+Description du poste
+	Intitulé du poste
+STAGE - Concepteur Développeur BI - Clients H/F
+	Métier
+Systèmes d'informations - Développement
+	Catégorie socio-professionnelle
+Stagiaire
+	Présentation du contexte
+
+Au sein du groupe Air France/KLM, notre équipe travaille à l’utilisation des données dans l’ensemble des domaines métier du groupe. Le sujet de stage proposé se trouve au sein de l’équipe traitant les données du domaine client ; le stagiaire sera intégré au sein de l’équipe Agile CDM (Customer Data Management)
+
+	Description de la mission
+
+Rattaché(e) au service Développement d'applications informatiques de BI  et sous la responsabilité de votre maitre de stage, la mission consistera à : 1.       Optimiser le modèle existant de score de perturbation de voyage.Ce modèle, utilisé sur l’ensemble de nos clients, permet d’identifier ceux ayant subis le plus de perturbations (bagages perdus, retards, annulations…) au cours des 18 derniers mois afin de mettre en place des actions appropriées à leur égard tout au long du parcours client (en aéroport, à bord…).  2. Travailler sur des algorithmes de reconnaissance permettant de recouper des données de plusieurs applications afin d’enrichir le profil de nos clients.Le but est d’augmenter le taux de contact (téléphones, emails, médias sociaux…) afin d’optimiser nos campagnes marketing et opérationnelles.
+
+	Profil recherché
+
+Vous êtes étudiant(e) en dernière année d'Ecole d'Ingénieur ou en Master 2 en Développement informatique et vous recherchez un stage de fin d'étude pour une durée de 6 mois. Rigoureux(se), et curieux(se), vous avez de bonnes capacités d'analyse et de synthèse, et de bonnes aptitudes relationnelles. Très bon niveau d’anglais souhaité (lu, écrit, parlé). De par votre formation, vous évolurez dans le domaine de la donnée, et vous avez l’attrait pour la découverte d’outils innovants, ainsi que pour l’utilisation d’outils collaboratifs. Conformément aux engagements pris par Air France dans son accord 2018-2020 en faveur de l’emploi des personnes en situation de handicap, nos contrats sont ouverts à tous.
+
+	Type de contrat
+Convention de stage
+	Durée du contrat (mois) :
+6 mois
+	Date de prise de poste souhaitée
+01/02/2021
+	Type d'horaires
+ AdministratifProfil candidat
+	Spécialisation
+SYSTEMES D'INFORMATION
+	Niveau d'études min. requis
+Bac + 5 et plus / 3ème année grande école
+	Langue
+Anglais (3 - Confirmé)Localisation du poste
+	Localisation du poste
+France, Occitanie, Haute Garonne (31)
+	Site
+
+	5 avenue Maxwell- 31109 Toulouse
+
+"
+16,STAGE - Assistant Ingénieur DevOps H/F,/offre-de-emploi/emploi-stage-assistant-ingenieur-devops-h-f_11200.aspx,Air France,N/A,"[<li>Convention de stage</li>, <li>Occitanie</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Avec le premier réseau long-courrier au départ de l'Europe, Air France est un acteur majeur du transport aérien mondial. Ses principaux métiers sont le transport aérien de passagers, de fret et la maintenance aéronautique.  
+                
+
+
+                        Référence
+                    
+                    2020-11200  
+                
+Description du poste
+	Intitulé du poste
+STAGE - Assistant Ingénieur DevOps H/F
+	Métier
+Systèmes d'informations - Infrastructures & Production informatique
+	Catégorie socio-professionnelle
+Stagiaire
+	Présentation du contexte
+
+La ligne de produit « Unix/Linux » dans laquelle est proposé le poste, fait partie du Département « Infrastructures As A Service » de la Direction de la Production Informatique du groupe Air France KLM.Cette ligne de produits a pour missions de réaliser l’Ingénierie des infrastructures Unix/Linux physiques et virtuelles, d’en assurer son industrialisation, son exploitabilité et d’apporter le support, l’expertise sur ces domaines et environnements techniques. L’équipe « Automatisation et Cloud » a en charge la conception et le développement de l’Automatisation des Datacenters. L’Automatisation des Datacenters AF/KLM est un des points clés pour réduire les coûts et fournir l’agilité nécessaire à l’informatique AF/KLM.
+
+	Description de la mission
+
+Vous serez rattaché(e) à l’équipe Automatisation & Cloud et, sous la responsabilité de votre maitre d’apprentissage, votre principale mission consistera à :Mettre en place une stratégie de tests fonctionnels de la plateforme d’automatisation. Contribuerez activement à la démarche DevOps de l’équipe, en améliorant la qualité et la fréquence des tests, tout en minimisant les impacts aux clients lors des différentes évolutions de la plateforme. Votre stage sera rythmé en phases :Etude :Comprendre le fonctionnement de la plateforme d’automatisation et des différents produits qui la composent (Suite HCM, Terraform, Ansible) et identifier les outils et autres frameworks de test pour la réalisation des tests et leur intégration dans la chaine d’intégration et de déploiement continue (CI/CD). Réalisation :Développez la stratégie de test en vous appuyant sur vos connaissances de développements (Scripting, API) et sur les outils identifiés lors de la phase d’étude. Intégration : Intégrer votre travail au cycle de développement en faisant preuve de pédagogie et en le valorisant auprès du reste de l’équipe pour qu’elle se l’approprie.   
+
+	Profil recherché
+
+Vous êtes étudiant(e) en 5ème année d'Ecole d'Ingénieur ou en Master 2 dans le domaine de l’informatique et vous recherchez un stage pour une durée de 6 mois. Vous êtes rigoureux(se), dynamique, vous avez de bonnes capacités d’analyse et de synthèse. Autonome, curieux(se) vous avez l’esprit d’initiative, aimez le travail en équipe et êtes force de proposition Vous avez des connaissances en développement. Vous êtes intéressé(e) pour évoluer dans le monde de la Production Informatique et une appétence pour les sujets autour du DevOps.  Conformément aux engagements pris par Air France dans son accord 2018-2020 en faveur de l’emploi des personnes en situation de handicap, nos contrats sont ouverts à tous.
+
+	Type de contrat
+Convention de stage
+	Durée du contrat (mois) :
+6 mois
+	Date de prise de poste souhaitée
+01/02/2021
+	Type d'horaires
+ AdministratifProfil candidat
+	Spécialisation
+SYSTEMES D'INFORMATION
+	Niveau d'études min. requis
+Bac + 5 et plus / 3ème année grande école
+	Langue
+Anglais (2 - Intermédiaire)Localisation du poste
+	Localisation du poste
+France, Occitanie, Haute Garonne (31)
+	Site
+
+	5 avenue Maxwell - 31109 Toulouse
+
+"
+17,STAGE - Data Engineer Engineering & Maintenance  H/F,/offre-de-emploi/emploi-stage-data-engineer-engineering-maintenance-h-f_11199.aspx,Air France,N/A,"[<li>Convention de stage</li>, <li>Occitanie</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Avec le premier réseau long-courrier au départ de l'Europe, Air France est un acteur majeur du transport aérien mondial. Ses principaux métiers sont le transport aérien de passagers, de fret et la maintenance aéronautique.  
+                
+
+
+                        Référence
+                    
+                    2020-11199  
+                
+Description du poste
+	Intitulé du poste
+STAGE - Data Engineer Engineering & Maintenance  H/F
+	Métier
+Systèmes d'informations - Développement
+	Catégorie socio-professionnelle
+Stagiaire
+	Présentation du contexte
+
+Au sein de l’informatique d’Air France-Klm, le Service Center BI assure les développements informatiques des outils de Business Intelligence et d’aide à l’analyse de la Donnée, au bénéfice de tous les métiers du Groupe. Utilisant des plateformes techniques très spécialisées, telles que Teradata, SAP BI4 Business Objects, Informatica, Hadoop ou Spotfire, les développeurs décisionnels assurent la réalisation des applications de business intelligence pour les décideurs et analystes fonctionnels des entités métier, depuis la conception, jusqu’à la modélisation, le développement du datawarehouse et des outils de restitution et de reporting. Une infrastructure BigData, adossée au datawarehouse de l’entreprise, a également été déployée, pour augmenter notre potentiel de valorisation des données disponibles, accélérer des développements centrés sur la data, la mise à disposition de données aux data scientists, l’utilisation de solution de visualisation et d’analyse performantes.
+
+	Description de la mission
+
+Rattaché(e) au produit BI & Data Engineering for E&M, et sous la responsabilité de votre maitre de stage, la mission consistera à :Elaborer une vue E2E componentde bout en bout pour les équipements du pool Air France Industries. Une vue de bout en bout équipement (end-to-end view ou E2EV) a pour objectif de fournir à tout potentiel consommateur une vue la plus exhaustive possible du cycle de vie d’un équipement (identifié par la clé Manufacturer / Part Number / Serial Number) grâce à la fourniture de données ordonnées issues de multiples sources. En cela, cette démarche s’inscrit pleinement dans la stratégie ‘Data As A Service’ de la ligne de produit BI / Big Data. Cette ‘Component E2EV’ devra – dans les grandes lignes – s’appuyer sur :Un référentiel qui pourrait être construit pour partie à partir de l’  ‘Illustrated Parts Catalog’ fourni par chaque avionneur pour une flotte donnée. Plusieurs classes de données afin de faciliter la navigation dans la vue (achat, engineering, logistique, production atelier… par exemple). Des historiques de données détail. Le calcul d’indicateurs pertinents. Vous serez amené(e) à utiliser les outils innovants du Big Data (Java, Spark, Hadoop), des bases de données Sql (Teradata, Oracle), des solutions de visualisation statique (SAP BI4) et dynamique (Spotfire). Une grande autonomie sera nécessaire dans la réalisation de ce projet, tout en ayant à disposition les contacts utiles en support et conseil, que ce soit sur la partie fonctionnelle ou la partie technique. Les marges de manœuvres seront importantes, avec une place laissée à l’initiative, aux possibilités de propositions supplémentaires tant techniques que fonctionnelles.
+
+	Profil recherché
+
+Vous êtes étudiant(e) en 5ème année d'Ecole d'Ingénieur ou en Master 2 dans le domaine de l’informatique, avec un gout très prononcé pour les technologies du développement. Une première expérience académique dans le domaine de la business intelligence en général et des technologies Big Data serait très appréciée. Une connaissance fonctionnelle du domaine du transport aérien serait précieuse au vu de la complexité des données à manipuler. Des compétences techniques approfondies seront requises en Java et SQL, une bonne aisance en anglais sera également indispensable pour s’intégrer dans un contexte multi-culturel AFKL. Curiosité, dynamisme, autonomie, sont également des qualités requises pour la réussite de ce stage. La charge de travail étant très importante, nous souhaitons que ce sujet soit pris en main par un groupe de 2 à 3 étudiants, idéalement issus de la même formation.Ces derniers devront donc être capables de travailler en équipe et de tirer parti au mieux des compétences et aptitudes de chacun. Conformément aux engagements pris par Air France dans son accord 2018-2020 en faveur de l’emploi des personnes en situation de handicap, nos contrats sont ouverts à tous.
+
+	Type de contrat
+Convention de stage
+	Durée du contrat (mois) :
+6 mois
+	Date de prise de poste souhaitée
+01/02/2021
+	Type d'horaires
+ AdministratifProfil candidat
+	Spécialisation
+SYSTEMES D'INFORMATION
+	Niveau d'études min. requis
+Bac + 5 et plus / 3ème année grande école
+	Niveau d'expérience min. requis
+- de 6 mois
+	Langue
+Anglais (3 - Confirmé)Localisation du poste
+	Localisation du poste
+France, Occitanie, Haute Garonne (31)
+	Site
+
+	5 avenue Maxwell - 31109 Toulouse
+
+"
+18,STAGE - Concepteur/Réalisateur d'Applications Java/Web H/F,/offre-de-emploi/emploi-stage-concepteur-realisateur-d-applications-java-web-h-f_11197.aspx,Air France,N/A,"[<li>Convention de stage</li>, <li>Occitanie</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Avec le premier réseau long-courrier au départ de l'Europe, Air France est un acteur majeur du transport aérien mondial. Ses principaux métiers sont le transport aérien de passagers, de fret et la maintenance aéronautique.  
+                
+
+
+                        Référence
+                    
+                    2020-11197  
+                
+Description du poste
+	Intitulé du poste
+STAGE - Concepteur/Réalisateur d'Applications Java/Web H/F
+	Métier
+Systèmes d'informations - Développement
+	Catégorie socio-professionnelle
+Stagiaire
+	Présentation du contexte
+
+La Ligne de Produit « CCO, Opérations pilotes et connectivité avions » intervient dans la conception et la réalisation d’applications opérationnelles, entre autres pour doter les instructeurs des outils nécessaires à la formation des pilotes (PNT) sur les simulateurs de vols, ou à la formation des hôtesses et stewards (PNC), étapes indispensables dans les process de planification des vols. Les domaines couverts par le pôle sont « la gestion de crise, la formation et l’instruction des Personnels Navigants ainsi que le réalisé des vols ».Certaines applications ont également été déclinées pour d’autres directions opérationnelles d’Air France et de KLM. L’environnement technique et fonctionnel est varié, depuis les applications Java traditionnelles jusqu’aux développements à destination des mobiles tels les ipad/iphone. Le contexte est, de plus, propice à l’apprentissage de par la présence de nombreux relais techniques et fonctionnels au sein de l’équipe existante.   
+
+	Description de la mission
+
+Vous serez rattaché(e) au service « Instruction PN, gestion de crise et réalisé des vols », sous la responsabilité technique de votre maître de stage, votre principale mission consistera à : Intervenir sur les applications de l’instruction PN, qui permettent la planification et le suivi des formations des pilotes et hôtesses. En collaboration avec le responsable de pôle, le responsable de produit de l’équipe vous serez également amené à : Concevoir des nouvelles fonctionnalités pour les applications du domaine instruction. Proposer des solutions technologiques innovantes ou à adapter certaines applications à l’état de l’art. Travailler dans une démarche agile (méthode Kanban) pour la réalisation des évolutions applicatives des applications du pôle, souvent en pair-programming Vous utiliserez les technologies Java, J2EE, Angular, Javascript, Spring, Hibernate, Oracle/PostGRESql, Base Linux Tomcat, Pivotal Cloud Foundry, Eclipse, Swift, XCode Si certaines de ces différentes méthodes vous parlent, si vous désirez approfondir vos connaissances sur l'une d'elles, le domaine des applications de l’instruction est tellement varié que nous trouverons des demandes d’évolutions qui vous permettront d’enrichir votre expérience, quel que soit votre technologie de prédilection.  
+
+	Profil recherché
+
+Vous êtes étudiant(e) en dernière année d’Ecole d’ingénieur dans le domaine des Systèmes d'Informations et vous recherchez un stage d’une durée de 6 mois.Vous êtes intéressé(e) par le côté opérationnel et gestion de production d’une compagnie aérienne. Vous êtes :Rigoureux(se), dynamique, vous avez de bonnes capacités d’analyse et de synthèse, Autonome,  curieux(se) vous avez l’esprit d’initiative, aimez le travail en équipe et êtes force de proposition.  Vous avez :Une expérience stage ou pratique personnelle dans le domaine du développement et de la conception (Java, Html, Javascript, Css, Xml, Oracle, Struts,Angular, Hibernate, Spring…. éventuellement développement mobile iOS Swift). Un attrait pour les domaines technologiques. Anglais indispensable (lu, parlé & écrit) Conformément aux engagements pris par Air France dans son accord 2018-2020 en faveurde l’emploi des personnes en situation de handicap, nos contrats sont ouverts à tous. 
+
+	Type de contrat
+Convention de stage
+	Durée du contrat (mois) :
+6 mois
+	Date de prise de poste souhaitée
+01/02/2021
+	Type d'horaires
+ AdministratifProfil candidat
+	Spécialisation
+SYSTEMES D'INFORMATION
+	Niveau d'études min. requis
+Bac + 5 et plus / 3ème année grande école
+	Niveau d'expérience min. requis
+- de 6 mois
+	Langue
+Anglais (2 - Intermédiaire)Localisation du poste
+	Localisation du poste
+France, Occitanie, Haute Garonne (31)
+	Site
+
+	5 avenue Maxwell - 31109 Toulouse
+
+"
+19,ALTERNANCE - Psychologue du Travail en Entreprise H/F,/offre-de-emploi/emploi-alternance-psychologue-du-travail-en-entreprise-h-f_11188.aspx,Air France,N/A,"[<li>Alternance et apprentissage</li>, <li>Ile-de-France</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Avec le premier réseau long-courrier au départ de l'Europe, Air France est un acteur majeur du transport aérien mondial. Ses principaux métiers sont le transport aérien de passagers, de fret et la maintenance aéronautique.  
+                
+
+
+                        Référence
+                    
+                    2020-11188  
+                
+Description du poste
+	Intitulé du poste
+ALTERNANCE - Psychologue du Travail en Entreprise H/F
+	Métier
+Ressources humaines - Médical et Social
+	Catégorie socio-professionnelle
+Apprenti
+	Présentation du contexte
+
+Le service recrutement et sélection d’air France se positionne comme prestataire de service auprès des entités de l’entreprise ayant des besoins en recrutement externe ou sélection interne (Personnel Navigant Commercial, Exploitation, Maintenance, fonctions supports, …). Le service d’environ 30 personnes est composé d’une équipe de chargés de sélection et recrutement ainsi que d’unités supports qui les accompagnent dans la conduite de leurs missions.Le service DPGS intervient de façon transverse auprès de toute l’entreprise. Le Pôle « Dispositifs et Pratiques de l’évaluation » a notamment pour rôle d’élaborer et de mettre à jour les processus d’évaluation, de garantir la qualité des outils et des méthodes employées dans le service ainsi que leur bonne utilisation. Il assure également la formation des chargés de sélection et recrutement (CSR) et maintient leurs compétences ; et cela dans un contexte de transformation de l’entreprise.
+
+	Description de la mission
+
+Rattaché(e) au Pôle Dispositifs et Pratiques de l’évaluation (DPE) et sous la responsabilité de votre maître d'apprentissage, votre principale mission consistera à : Contribuer à la réalisation des différentes missions liées à l’actualité du service et aux priorités du moment ainsi qu’aux missions permanentes. Participer à l’élaboration et/ou la refonte de processus de sélection et/ou recrutement (outils – grilles de compétences) et mise à jour de la documentation correspondante. Participer à la mise au point et/ou à la digitalisation de supports de formation. Participer à la veille sur les méthodes et outils disponibles sur le marché. Participer à des actions de benchmark. Participer à création et à la diffusion de contenus thématiques sur des sujets tels que l’évaluation des compétences. Participer à la veille juridique (loi non-discrimination, CNIL, …) ; Vous aurez également la possibilité d’assister à des entretiens d’évaluations. Toutes les missions seront supervisées par la responsable DPE, psychologue.Outils utilisés : tests psychotechniques, inventaires de personnalité, mises en situations, entretiens d’évaluation.
+
+	Profil recherché
+
+Vous êtes étudiant en alternance et vous préparez un Master 2 en Psychologie, vous souhaitez effectuer une alternance en tant que psychologue du travail pour une durée d’1 an.  Vous possédez une solide acuité analytique et de bonnes capacités de synthèse. Rigoureux(se) et impliqué(e) dans ce que vous entreprenez, vous avez un bon niveau d’autonomie et êtes force de proposition. Vous faites preuve d’une écoute active et de qualités relationnelles certaines.  Merci de précisez sur votre CV ou Lettre de Motivation le rythme de votre alternance. Conformément aux engagements pris par Air France dans son accord 2018-2020 en faveur de l'emploi des personnes en situation de handicap, nos stages/contrats d'alternance sont ouverts à tous.
+
+	Type de contrat
+Alternance et apprentissage
+	Durée du contrat (mois) :
+12 mois
+	Date de prise de poste souhaitée
+02/11/2020
+	Temps partiel possible
+Non
+	Type d'horaires
+ AdministratifProfil candidat
+	Spécialisation
+PSYCHOLOGIE
+	Niveau d'études min. requis
+Bac + 5 et plus / 3ème année grande école
+	Langue
+Anglais (3 - Confirmé)Localisation du poste
+	Localisation du poste
+France, Ile-de-France, Val d'Oise (95)
+	Site
+
+	Villepinte
+
+"
+20,ALTERNANCE - Pilotage Sécurité des Vols H/F,/offre-de-emploi/emploi-alternance-pilotage-securite-des-vols-h-f_11134.aspx,Air France,N/A,"[<li>Alternance et apprentissage</li>, <li>Ile-de-France</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Avec le premier réseau long-courrier au départ de l'Europe, Air France est un acteur majeur du transport aérien mondial. Ses principaux métiers sont le transport aérien de passagers, de fret et la maintenance aéronautique.  
+                
+
+
+                        Référence
+                    
+                    2020-11134  
+                
+Description du poste
+	Intitulé du poste
+ALTERNANCE - Pilotage Sécurité des Vols H/F
+	Métier
+Exploitation & Opérations aériennes - Piste & Exploitation Bagages
+	Catégorie socio-professionnelle
+Apprenti
+	Présentation du contexte
+
+La Direction Qualité et Sécurité a notamment en charge la coordination transverse de la Sécurité des Vols pour l’ensemble des Opérations Sols d'AIR FRANCE. Cela implique :Le pilotage de la performance SV au travers les instances transverses et les plans d’amélioration. La Surveillance réglementaire et l’interface avec les autorités et organismes officiels. La garantie de la mise en œuvre des bonnes pratiques SV. La coordination des analyses des incidents et de la prévention de la sécurité. La promotion de la sécurité des vols dans tous les métiers. Le périmètre des Opérations Sols comprend les Escales France, Orly, le HUB de Charles de Gaulle ainsi que les Escales Internationales desservies par Air France.
+
+	Description de la mission
+
+Rattaché(e) au service Sécurité des Vols et sous la responsabilité de votre maître d'apprentissage, votre mission consistera à : Participer au projet  AIR FRANCE de transformation de la culture Sécurité nommé  ""Safety Attitude"" dans le périmètre des Opérations Sol. Vous serez amené(e) à :Contribuer au déploiement des visites de sécurité réalisées par les managers opérationnels : effectuer l'analyse des données de réalisation de ces visites (quantitative et qualitative) Organiser les ateliers de travail avec des  acteurs issus d'entités différentes : planification, déroulement, élaboration de plans d'actions et identification des recommandations issues de ces groupes de travail. Contribuer au pilotage global des projets de transformations de l'entreprise (planning, coordination, évaluation des risques..).
+
+	Profil recherché
+
+Vous êtes étudiant en Master II ou en dernière année d’École d'Ingénieur dans le domaine de de l'aéronautique avec une dominante informatique et Sécurité des vols ou des Systèmes d'Informations.Vous recherchez une alternance pour une durée de 12 mois . Vos connaissance en gestion de projet/risques vous permettrons de comprendre rapidement les caractéristiques et les enjeux liés à notre environnement et d'être force de proposition. Vous êtes rigoureux, autonome, organisé(e). Vous possédez des capacités d'analyse et de synthèse ainsi que des qualités rédactionnelles. Votre aisance relationnelle vous permettra d'être à l'aise à la fois dans les échanges avec l'ensemble des directions et auprès des opérationnels. Anglais indispensable (lu, parlé & écrit) Alors postulez et rejoignez nous ! Merci de préciser sur votre CV ou lettre de Motivation, le rythme de votre alternance. Conformément aux engagements pris par Air France dans son accord 2018-2020 en faveur de l’emploi des personnes en situation de handicap, nos contrats en alternance sont ouverts à tous
+
+	Type de contrat
+Alternance et apprentissage
+	Durée du contrat (mois) :
+12
+	Date de prise de poste souhaitée
+02/11/2020
+	Temps partiel possible
+Non
+	Type d'horaires
+ AdministratifProfil candidat
+	Spécialisation
+AERONAUTIQUEQUALITESECURITE PREVENTIONSYSTEMES D'INFORMATION
+	Niveau d'études min. requis
+Bac + 5 et plus / 3ème année grande école
+	Langue
+Anglais (3 - Confirmé)Localisation du poste
+	Localisation du poste
+France, Ile-de-France, Val d'Oise (95)
+	Site
+
+	45 rue de Paris 95747 ROISSY CHARLES DE GAULLE CEDEX
+
+"
+21,ALTERNANCE– Chargé de Relations Sociales H/F,/offre-de-emploi/emploi-alternance-charge-de-relations-sociales-h-f_11145.aspx,Air France,N/A,"[<li>Alternance et apprentissage</li>, <li>Ile-de-France</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Avec le premier réseau long-courrier au départ de l'Europe, Air France est un acteur majeur du transport aérien mondial. Ses principaux métiers sont le transport aérien de passagers, de fret et la maintenance aéronautique.  
+                
+
+
+                        Référence
+                    
+                    2020-11145  
+                
+Description du poste
+	Intitulé du poste
+ALTERNANCE– Chargé de Relations Sociales H/F
+	Métier
+Ressources humaines - RH, Relations sociales
+	Catégorie socio-professionnelle
+Apprenti
+	Présentation du contexte
+
+La Direction des Relations Sociales d’Air France Sol et questions transverses est une direction support pour l’ensemble des relations sociales de la compagnie et également du groupe AF.La Direction coordonne les négociations collectives Personnel au sol et transverses, en application de la stratégie d’entreprise et du flight plan RH.Elle gère et anime les instances représentatives du personnel centrales et intervient en support pour les autres entités.Elle a également pour rôle d’initier, de piloter et de participer à la conduite de projets d’accompagnement de la transformation de l’entreprise et de négociations transverses. 
+
+	Description de la mission
+
+Rattaché(e) à la Direction ""Dialogue Social Sol Transverse"" et sous la responsabilité de votre maître d'apprentissage, votre principale missionconsistera à rapporter au Directeur/Directrice des Relations Sociales de la compagnie et aurez en charge les missions suivantes : 1/ Appui aux projets liés au plan de reconstructionContribuer au suivi du déploiement de plan de transformation de l’entreprise sur ses aspects sociaux et dialogue social. (Identifier les contraintes et opportunités réglementaires, aide à la conduite des projets et des calendriers, soutien à l’élaboration de la stratégie…)  2/ Appui aux négociationsParticiper aux négociations avec les organisations syndicales, en appui au Responsable Négociations :appui juridique,préparer les bilatérales avec les organisations syndicales,aider à l’élaboration des projets d’accords.  3/ Appui au pôle « instances représentatives du personnel »Apporter un appui, notamment sur un plan juridique, dans le cadre l’organisation des CSE d’établissement et du CSE central. 
+
+	Profil recherché
+
+Vous êtes étudiant(e) en alternance et preparez un IEP, un Master 2 spécialisé en RH, Droit du Travail ou Droit Social et vous recherchez un contrat d'apprentissage pour une durée de 12mois dans un contexte déterminant en matière de relations sociales. • Vous savez faire preuve d'autonomie, de rigueur, d'adaptabilité, avoir un bon relationnel.• Vous êtes rigoureux(se), organisé(e) et force de proposition.• On souligne vos qualités relationnelles et votre aptitude au travail en équipe et eninterface avec les partenaires sociaux de l'entreprise.• Le sens de la discrétion et de la confidentialité est indispensable dans notre activité.  Merci de préciser dans votre CV ou lettre de motivation, le rythme de votre alternance. Conformément aux engagements pris par Air France dans son accord 2018-2020 en faveur de l’emploi des personnes en situation de handicap, nos contrats en alternance sont ouverts à tous.    
+
+	Type de contrat
+Alternance et apprentissage
+	Durée du contrat (mois) :
+12 mois
+	Date de prise de poste souhaitée
+14/12/2020
+	Type d'horaires
+ AdministratifProfil candidat
+	Spécialisation
+DROITRESSOURCES HUMAINESSCIENCES POLITIQUESSCIENCES SOCIALES
+	Niveau d'études min. requis
+Bac + 5 et plus / 3ème année grande école
+	Langue
+Anglais (3 - Confirmé)Localisation du poste
+	Localisation du poste
+France, Ile-de-France, Val d'Oise (95)
+	Site
+
+	45 rue de Paris 95747 ROISSY CHARLES DE GAULLE CEDEX
+
+"
+22,Technicien logistique Réparations Transavia H/F,/offre-de-emploi/emploi-technicien-logistique-reparations-transavia-h-f_11171.aspx,Air France,N/A,"[<li>CDI</li>, <li>Ile-de-France</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Transavia, compagnie low-cost du groupe Air France-KLM, propose des vols réguliers moyen-courrier et charters à des prix très compétitifs au départ de la France, des Pays-Bas et de l'Allemagne vers 160 destinations vers l'Europe et le bassin méditerranéen. Transavia France, basée à Orly, Nantes et Lyon, est une compagnie aérienne en pleine croissance. De 30 avions à ce jour, Transavia France en exploitera 33 à la fin de l'année 2018. Elle est devenue la première compagnie low-cost à Orly, reconnue par ses clients pour son excellence de service et ses tarifs attractifs. Pour accompagner notre croissance, nous sommes à la recherche de nouveaux talents.  
+                
+
+
+                        Référence
+                    
+                    2020-11171  
+                
+Description du poste
+	Intitulé du poste
+Technicien logistique Réparations Transavia H/F
+	Métier
+Frêt & Logistique - Logistique
+	Catégorie socio-professionnelle
+Agent de maîtrise
+	Description de la mission
+
+Rattaché(e) au service Logistique, le Technicien Logistique Réparations (F/H) est chargé de la gestion des flux de pièces hors service. Il/elle a comme missions principales : Activités principales :•Être le gestionnaire principal en charge des flux de pièces hors service,•Être l’interlocuteur privilégié du magasin de notre sous-traitant et superviser l’activité quotidienne (débriefing quotidien sur encours),•Être l’interlocuteur des équipes logistiques de Transavia France pour la vérification et l’expédition des pièces lors des préparations de chantiers avions,•Effectuer la gestion et le suivi des matériels à réparer jusqu’à leur réintégration sur étagère :oPrise en compte quotidienne de la zone HS et des pièces avion à traiter, Vérification de l’adéquation et de la conformité documentaire (listing magasin, étiquettes) avec le matériel,oSurveillance des réparations associées à des locations (notification de retour/alerte),oFaire des alertes et des actions correctives auprès du sous-traitant si nécessaire,oIdentification des conditions de réparation et du réparateur requis (OEM, pool, station agréée de proximité) et gestion du dossier de réparation,oGestion des dossiers de transports associés aux réparations,oVeille au respect des TAT de réparation avec relance(s) si nécessaire,oVeille à l’application des accords Boeing de référence et applicables aux réparateurs,oEmission des recours lorsque nécessaire,oSuivi des garanties de matériels,oReporting, récapitulatif hebdomadaire des dossiers encours réparations,•Piloter les flux de transports de matériels vers et depuis les escales, dans les délais requis (FR/UK notamment). Activités secondaires :•Être force de proposition dans le suivi de performances réparations (KPI),•Participer aux diverses réunions/débriefings de la Direction Technique (internes/externes).Ce poste est soumis à contrat Transavia  Toute activité en dehors de celles énumérées au titre des fonctions principales pourra être confiée au collaborateur dans le cadre de son activité en fonction de son évolution au sein du service et des besoins de l’entreprise.
+
+	Profil recherché
+
+Bac +2 en Logistique/ Achats, ou expérience significative sur des fonctions similairesExpérience professionnelle en compagnie aérienne/MRO/OEM appréciéeConnaissances Trax et Pack officeEligibilité à l’obtention du badge rouge Maîtrise de l’anglais impératif (Niveau B2)Autonomie, rigueur et réactivité, ponctualitéBon relationnel et capacité à travailler en équipe, savoir anticiper, savoir rendre-compte Les candidatures (CV et lettre de motivation) doivent parvenir par mail à l’adresse suivante : recrutement.sol@fr.transavia.com avec la référence de l’annonce Technicien Logistique Réparations.
+
+	Type de contrat
+CDI
+	Date de prise de poste souhaitée
+01/11/2020
+	Type d'horaires
+ AdministratifProfil candidat
+	Langue
+Anglais (3 - Confirmé)Localisation du poste
+	Localisation du poste
+France, Ile-de-France, Val de Marne (94)
+	Site
+
+	Aéroport d'Orly
+
+"
+23,ALTERNANCE - Assistant Maîtrise d'Ouvrage Reporting Environnemental H/F,/offre-de-emploi/emploi-alternance-assistant-maitrise-d-ouvrage-reporting-environnemental-h-f_11126.aspx,Air France,N/A,"[<li>Alternance et apprentissage</li>, <li>Ile-de-France</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Avec le premier réseau long-courrier au départ de l'Europe, Air France est un acteur majeur du transport aérien mondial. Ses principaux métiers sont le transport aérien de passagers, de fret et la maintenance aéronautique.  
+                
+
+
+                        Référence
+                    
+                    2020-11126  
+                
+Description du poste
+	Intitulé du poste
+ALTERNANCE - Assistant Maîtrise d'Ouvrage Reporting Environnemental H/F
+	Métier
+Systèmes d'informations - Maîtrise d'ouvrage
+	Catégorie socio-professionnelle
+Apprenti
+	Présentation du contexte
+
+N°1 du Dow Jones Sustainability Index avec KLM, Air France est déterminée à rester leader de la transition écologique et pionnier dans la construction d’une aviation durable.Subséquemment à la présentation d’un plan de transformation ambitieux en 2019 « Horizon 2030 », Air France travaille à renforcer ses actions RSE et en faire un pilier essentiel de sa stratégie de relance post-Covid. 
+
+	Description de la mission
+
+Rattaché(e) à la Direction Développement Durable et sous la responsabilité de votre maître d'apprentissage et en interaction avec différents corps de métier de l’entreprise, votre mission consistera à : Automatiser l’exploitation des bases de données internes et contribuer a la simplification de la production des reportings RSE. Ajuster les processus de calculs des émissions et/ou consommation énergique en fonction des nouvelles exigences réglementaires. Prendre part au développement d’outils numériques facilitant la réalisation des rapports RSE. Seconder l’équipe dans la rédaction des différents rapports RSE. Concourir à la mise en place de formations internes sur le plan de transformation écologique de l’entreprise et  la création de supports utiles à toutes les directions. Mettre en place une veille concurrentielle des actions et des innovations durables du secteur aérien et plus généralement de l’écosystème d’Air France. Aider à la promotion d’initiatives internes soutenant la transformation écologique de l’entreprise. Participer à l’animation d’un réseau de Sustainability Leaders, chargé de diffuser la dynamique de RSE dans toutes les directions de l’entreprise. Contribuer à la mise en place de solutions innovantes d’aviation durable et leur communication en interne et en externe. Soutenir le département dans la mise en place de partenariats avec différentes parties prenantes de la transition écologique.
+
+	Profil recherché
+
+Vous êtes étudiant(e) en Master 1 ou 2 dans le domaine des Systèmes d'Informations ou en Ingénierie avec une spécificité en développement durable.Vous êtes à la recherche d’une alternance stimulante et enrichissante au sein d’une grande entreprise française résolument engagée dans la transition écologique.  Vous présentez un vif intérêt pour les questions environnementales. Vous avez d’excellentes compétences de communication écrite et orale en français et en anglais. Vous maitrisez les programmes de la suite Microsoft Office : Excel (création/exploitation de bases de données, codage VBA), Powerpoint (infographie) Vous avez un bon esprit d’analyse et de synthèse. Vous savez vous adapter à un environnement en évolution rapide. Anglais indispensable : (lu, parlé & écrit)   Merci de préciser dans votre CV ou lettre de motivation, le rythme de votre alternance.  Conformément aux engagements pris par Air France dans son accord 2018-2020 en faveur de l'emploi des personnes en situation de handicap, nos contrats en alternance sont ouverts à tous. 
+
+	Type de contrat
+Alternance et apprentissage
+	Durée du contrat (mois) :
+12 à 24 mois
+	Date de prise de poste souhaitée
+01/09/2020
+	Temps partiel possible
+Non
+	Type d'horaires
+ AdministratifProfil candidat
+	Spécialisation
+DEVELOPPEMENT DURABLESYSTEMES D'INFORMATION
+	Niveau d'études min. requis
+Bac + 4 / 2ème année grande école
+	Niveau d'expérience min. requis
+Sans objet
+	Langue
+Anglais (3 - Confirmé)Localisation du poste
+	Localisation du poste
+France, Ile-de-France, Val d'Oise (95)
+	Site
+
+	45 rue de Paris 95747 ROISSY CHARLES DE GAULLE CEDEX
+
+"
+24,LEADER POLE STRUCTURE-TRANSAVIA,/offre-de-emploi/emploi-leader-pole-structure-transavia_6343.aspx,Air France,N/A,"[<li>CDI</li>, <li>Ile-de-France</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Transavia, compagnie low-cost du groupe Air France-KLM, propose des vols réguliers moyen-courrier et charters à des prix très compétitifs au départ de la France, des Pays-Bas et de l'Allemagne vers 160 destinations vers l'Europe et le bassin méditerranéen. Transavia France, basée à Orly, Nantes et Lyon, est une compagnie aérienne en pleine croissance. De 30 avions à ce jour, Transavia France en exploitera 33 à la fin de l'année 2018. Elle est devenue la première compagnie low-cost à Orly, reconnue par ses clients pour son excellence de service et ses tarifs attractifs. Pour accompagner notre croissance, nous sommes à la recherche de nouveaux talents.  
+                
+
+
+                        Référence
+                    
+                    2017-6343  
+                
+Description du poste
+	Intitulé du poste
+LEADER POLE STRUCTURE-TRANSAVIA
+	Métier
+Entretien aéronautique - Bureau technique/Engineering
+	Catégorie socio-professionnelle
+Cadre
+	Présentation du contexte
+
+A propos de TransaviaTransavia, la compagnie low-cost du groupe Air France-KLM, dessert plus de 160 destinations vers l’Europe et le bassin méditerranéen au départ de la France (Paris Orly, Nantes et Lyon), des Pays-Bas (Amsterdam, Rotterdam, Eindhoven et Groningen) et de l’Allemagne (Munich). Avec plus de 11 millions de passagers transportés chaque année, Transavia est aujourd’hui la première compagnie low-cost au départ d’Orly et la deuxième au départ de Paris (Beauvais, Roissy, Orly). Afin de satisfaire toujours plus ses clients, Transavia met au cœur de ses engagements la qualité de ses services et la proximité de ses équipages. Un parti-pris qui lui a valu d’être élue meilleure compagnie aérienne low-cost d’Europe pour la deuxième année consécutive par le site Flight-Report. 
+
+	Description de la mission
+
+Sous la responsabilité du Responsable Engineering, le / la Leader Pôle Structure (F/H) est en charge de la gestion du Pôle Engineering Structure et du suivi des ATAs correspondants pour les avions de la flotte Transavia France. Dans ce cadre, il / elle aura comme principales missions : Activités principales :•Superviser et animer le pôle Engineering Structure (2-3 collaborateurs),•Prendre en compte et analyser les dommages structuraux de la flotte de Transavia France,•Proposer des solutions de réparation,•Mettre à jour l’Aircraft Damage Report,•Etudier et analyser les divers documents officiels (AD, FACE, ...) et constructeurs (SB, SL, VSB),•Elaborer les fiches de modification ou les cartes de travail,•Effectuer le suivi de la flotte et le maintien au standard,•Analyser l’efficacité du Programme d’Entretien (PE) et l'amender si nécessaire, en accord avec l’agent en charge du PE,Activités secondaires :•Assurer les permanences techniques•Assurer le BackUp des autres agents Engineering durant leur absence  Toute activité en dehors de celles énumérées au titre des fonctions principales pourra être confiée au collaborateur dans le cadre de son activité en fonction de son évolution au sein du service et des besoins de l’entreprise.Ce poste est soumis à contrat Transavia
+
+	Profil recherché
+
+- Diplôme Aéronautique de niveau Bac+3/Master ou expérience équivalente en Engineering Structure,- Connaissances requises dans le domaine aéronautique,- Connaissances réglementaires Part M et Part 145,- Connaissances des outils bureautiques informatiques, connaissance TRAX appréciée,- Compétences techniques aéronautiques,- Maîtrise de l’anglais (niveau B2/C1)- Rigueur, savoir travailler en équipe, être organisé et disponible.
+
+	Type de contrat
+CDI
+	Date de prise de poste souhaitée
+01/01/2018
+	Type d'horaires
+ AdministratifProfil candidat
+	Niveau d'études min. requis
+Bac + 3
+	Langue
+Anglais (3 - Confirmé)Localisation du poste
+	Localisation du poste
+France, Ile-de-France, Essonne (91)
+	Site
+
+	PARAY-VIEILLE-POSTE 
+
+"
+25,Technicien logistique AOG Desk Transavia H/F,/offre-de-emploi/emploi-technicien-logistique-aog-desk-transavia-h-f_10964.aspx,Air France,N/A,"[<li>CDI</li>, <li>Ile-de-France</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Transavia, compagnie low-cost du groupe Air France-KLM, propose des vols réguliers moyen-courrier et charters à des prix très compétitifs au départ de la France, des Pays-Bas et de l'Allemagne vers 160 destinations vers l'Europe et le bassin méditerranéen. Transavia France, basée à Orly, Nantes et Lyon, est une compagnie aérienne en pleine croissance. De 30 avions à ce jour, Transavia France en exploitera 33 à la fin de l'année 2018. Elle est devenue la première compagnie low-cost à Orly, reconnue par ses clients pour son excellence de service et ses tarifs attractifs. Pour accompagner notre croissance, nous sommes à la recherche de nouveaux talents.  
+                
+
+
+                        Référence
+                    
+                    2020-10964  
+                
+Description du poste
+	Intitulé du poste
+Technicien logistique AOG Desk Transavia H/F
+	Métier
+Entretien aéronautique - Bureau technique/Engineering
+	Catégorie socio-professionnelle
+Technicien
+	Description de la mission
+
+Ce poste est soumis à un contrat Transavia.  Rattaché.e au service Logistique, le/la Technicien.ne Logistique AOG Desk est chargé.e de l’approvisionnement des matériels nécessaires à la maintenance des avions et la gestion administrative des matériels hors services. Il/elle a la responsabilité de : Activités principales :•Coordonner, administrer et suivre les besoins en approvisionnements de court terme en lien avec le MCC et les stations,•Gérer la boite email commune du service Logistique en assignant chaque email aux fonctions concernées,•Suivre en continu les besoins en pièces pour la maintenance et assurer leur approvisionnement,•Coordonner les mouvements de pièces en interne et au point d’utilisation requis,•Communiquer le statut des besoins en matériel,•Prise de décision vers la solution d’approvisionnement la plus appropriée et économique,•Surveiller et piloter les besoins MEL, CDL et HIL afin de minimiser les perturbations opérationnelles,•Suivre et assurer un retour optimal des locations et emprunts,•Effectuer la gestion et le réapprovisionnement des stocks sur escales,•Effectuer le reporting et la mise à jour en temps réel de l’ERP,•Organiser une réunion d’information quotidienne pour la remise de vacation,•Compiler le rapport d’exploitation quotidien. Activités secondaires :•Contribuer à améliorer les flux de pièces sortants (pool, réparations) en assurant que le système d’informations est à jour,•Tenir à jour la base de données vendeurs et partager les contacts à tous les collaborateurs de la logistique,•Proposer des améliorations pour rendre le pôle AOG desk et la logistique plus efficace.  Toute activité en dehors de celles énumérées au titre des fonctions principales pourra être confiée au collaborateur dans le cadre de son activité en fonction de son évolution au sein du service et des besoins de l’entreprise.
+
+	Profil recherché
+
+Bac +2 en Logistique/ Achats, ou expérience significativeExpérience professionnelle en compagnie aérienne/MRO/OEM appréciéeConnaissances Trax et Pack officeÉligibilité à l’obtention du badge rougeMaîtrise de l’anglais niveau B2Autonomie, rigueur, ponctualité,Capacité à travailler en équipe, savoir anticiper, savoir rendre-compte, réactivitéAvoir une première expérience en travail décalé ou de nuit Les candidatures (CV et lettre de motivation) doivent parvenir par mail à l’adresse suivante : recrutement.sol@fr.transavia.com avec la référence de l’annonce : Technicien Logistique AOG Desk.
+
+	Type de contrat
+CDI
+	Date de prise de poste souhaitée
+01/04/2020
+	Type d'horaires
+DécaléLocalisation du poste
+	Localisation du poste
+France, Ile-de-France, Essonne (91)
+	Site
+
+	Paray Vieille Poste 
+
+"
+26,Pilote de ligne H/F : Recrutement suspendu,/offre-de-emploi/emploi-pilote-de-ligne-h-f-recrutement-suspendu_916.aspx,Air France,N/A,"[<li>CDI</li>, <li>Ile-de-France</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Avec le premier réseau long-courrier au départ de l'Europe, Air France est un acteur majeur du transport aérien mondial. Ses principaux métiers sont le transport aérien de passagers, de fret et la maintenance aéronautique.  
+                
+
+
+                        Référence
+                    
+                    2015-916  
+                
+Description du poste
+	Intitulé du poste
+Pilote de ligne H/F : Recrutement suspendu
+	Métier
+Personnel Navigant - Pilote de ligne
+	Catégorie socio-professionnelle
+Cadre
+	Présentation du contexte
+
+Compagnies AIR FRANCE et TRANSAVIANous vous informons que les sélections et le recrutement pilote professionnel sont actuellement suspendus. 
+
+	Description de la mission
+
+Pilote de ligne est un métier très exigeant qui requiert une vraie passion pour le vol, de l'enthousiasme et de l'engagement, mais aussi des aptitudes sur les plans intellectuel, psychologique et physique.Il demande également une bonne pratique de l'anglais.Avant tout responsable de la sécurité des passagers, le pilote de ligne a en charge le pilotage, la navigation, la gestion des communications radio et la surveillance technique de l'avion.Les pilotes sont répartis en deux catégories : Commandant de bord (CDB) et Officier Pilote de Ligne (OPL). Le Commandant de bord a autorité sur l'ensemble de l'équipage et des passagers. Il/elle prend toutes les décisions nécessaires, de la préparation à la clôture du vol. Sa priorité absolue est d'assurer la sécurité et la sûreté du vol. L'Officier Pilote de Ligne (ou copilote) est second de l'équipage dans l'ordre hiérarchique. L'équipage est toujours composé d'un Commandant de bord et d'au moins un Officier Pilote de Ligne.
+
+	Profil recherché
+
+VOUS ÊTES DÉJÀ PILOTEPour déposer votre candidature, vous devez constituer votre dossier en cliquant sur le bouton : ""Je postule à cette offre"".Postuler sur cette offre est l'unique voie pour déposer votre candidature. Les candidatures envoyées par courrier ne seront pas traitées.Cette démarche est indispensable quels que soient votre filière de formation et votre statut : nouveau candidat, candidat ayant déjà déposé un dossier ou ayant déjà participé à une sélection Pilote.LES CONDITIONS POUR POSTULERPour déposer votre candidature, plusieurs conditions sont requises : •être titulaire de l'ATPL ou d'un CPL/IRME en cours de validité.•être titulaire de l'ATPL théorique délivré par un ATO certifié par l'un des Etats membres de l'Union Européenne.•posséder l'aptitude médicale ""classe1"" en cours de validité.•être de nationalité française, de l'un des autres Etats membres de la Communauté européenne ou de la Confédération helvétique.•pouvoir vous exprimer couramment dans la langue française. Les candidats ne possédant pas la nationalité française doivent être titulaire du FCL 055 niveau 6 en français.•ne pas avoir déjà été ajourné 2 fois en psy 2 à une sélection Air France.•ne pas avoir eu d'échec en formation Air France ou Transavia  ATTENTION, nouvelle condition :- Les candidats ayant déjà été ajournés deux fois à l'issue des Psy 2 Cadet, peuvent dorénavant se représenter une fois à une sélection pilote PRO ; au bout de 3 ans et avec un minimum de 1500 heures de vol.  Pour pouvoir être convoqué en sélection, vous devez :•être titulaire d'une attestation de suivi satisfaisant d'une formation au travail en équipage (MCC)•justifier d'un niveau supérieur ou égal à 5 sur l'échelle d'évaluation des compétences linguistiques : FCL 055 / 055D en cours de validité•avoir un score au TOEIC Test supérieur ou égal à 850, datant de moins de 2 ans au moment de la sélection A partir du 20 décembre 2019, pour les pilotes non détenteurs d'une première QT CS 25, être en possession d'une attestation de la formation EASA Advanced UPRT. LES ÉPREUVES DE SÉLECTION :A compter du 1er janvier 2020, celles-ci se dérouleront en 4 étapes :•tests psychotechniques et psychomoteurs à l'ENAC (Psy 1)•inventaires de personnalité (Psy 2)•épreuves de groupe et entretien (Psy 2)•éventuellement une épreuve sur simulateur de vol
+
+	Type de contrat
+CDI
+	Temps partiel possible
+Oui
+	Type d'horaires
+DécaléProfil candidat
+	Niveau d'études min. requis
+Bac
+	Langue
+Français (4 - Bilingue)Langues - Informations complémentaires
+	Score minimum requis au TOEIC en anglais (datant de moins de 2 ans)
+  Entre 850 et 949Localisation du poste
+	Localisation du poste
+France, Ile-de-France
+	Site
+
+	ROISSY-EN-FRANCE / ORLY
+
+"
+27,Personnel d'examen de navigabilité H/F-Transavia,/offre-de-emploi/emploi-personnel-d-examen-de-navigabilite-h-f-transavia_6289.aspx,Air France,N/A,"[<li>CDI</li>, <li>Ile-de-France</li>]","
+
+                Informations générales
+            
+
+
+
+
+
+
+                        Entité de rattachement
+                    
+                    Transavia, compagnie low-cost du groupe Air France-KLM, propose des vols réguliers moyen-courrier et charters à des prix très compétitifs au départ de la France, des Pays-Bas et de l'Allemagne vers 160 destinations vers l'Europe et le bassin méditerranéen. Transavia France, basée à Orly, Nantes et Lyon, est une compagnie aérienne en pleine croissance. De 30 avions à ce jour, Transavia France en exploitera 33 à la fin de l'année 2018. Elle est devenue la première compagnie low-cost à Orly, reconnue par ses clients pour son excellence de service et ses tarifs attractifs. Pour accompagner notre croissance, nous sommes à la recherche de nouveaux talents.  
+                
+
+
+                        Référence
+                    
+                    2017-6289  
+                
+Description du poste
+	Intitulé du poste
+Personnel d'examen de navigabilité H/F-Transavia
+	Métier
+Entretien aéronautique - Bureau technique/Engineering
+	Catégorie socio-professionnelle
+Agent de maîtrise
+	Présentation du contexte
+
+A propos de TransaviaTransavia, la compagnie low-cost du groupe Air France-KLM, dessert plus de 160 destinations vers l’Europe et le bassin méditerranéen au départ de la France (Paris Orly, Nantes et Lyon), des Pays-Bas (Amsterdam, Rotterdam, Eindhoven et Groningen) et de l’Allemagne (Munich). Avec plus de 11 millions de passagers transportés chaque année, Transavia est aujourd’hui la première compagnie low-cost au départ d’Orly et la deuxième au départ de Paris (Beauvais, Roissy, Orly). Afin de satisfaire toujours plus ses clients, Transavia met au cœur de ses engagements la qualité de ses services et la proximité de ses équipages. Un parti-pris qui lui a valu d’être élue meilleure compagnie aérienne low-cost d’Europe pour la deuxième année consécutive par le site Flight-Report. 
+
+	Description de la mission
+
+Sous la responsabilité du Responsable Engineering, le Personnel d’Examen de Navigabilité (h/f) est en charge du suivi et de la mise à jour des Certificats de Navigabilité des avions de la flotte Transavia France, ainsi que de la bonne intégration des avions dans le système IT.Il/elle a la responsabilité de : Activités principales :-  Personnel d’Examen de navigabilité (renouvellement, prorogation, transfert, intégration, etc…)-  Intégration des avions dans la flotte : rapport à l’autorité, mise en place de l’avion dans le système informatique Kardex, AD/SB status, MP, etc… en accord avec les autres services-  Sortie / Entrée de flotte lors des winterlease-  Rapports mensuels de l’utilisation des avions aux différents loueurs/contrats-  Etre le point d’entrée / coordinateur des audits loueurs Activités secondaires :-  Assurer les permanences techniques-  Gérer des projets transverses Toute mission en dehors de celles énumérées ci-dessus au titre de ses fonctions principales pourra être confiée au collaborateur (-trice) dans le cadre de son activité, en fonction de son évolution au sein du service et des besoins de l’entreprise.Ce poste est soumis à contrat Transavia
+
+	Profil recherché
+
+-  Diplôme Aéronautique de niveau Bac+3/Master ou équivalent et expérience dans le domaine du Part M d’au minimum 5 ans-  Connaissances et compétences techniques aéronautiques-  Connaissances réglementaires Part M et Part 145-  Maîtrise des outils bureautiques informatiques, connaissances TRAX appréciée-  Maîtrise de l’anglais-  Rigueur, disponibilité, organisé, capacité à travailler en équipe.
+
+	Type de contrat
+CDI
+	Date de prise de poste souhaitée
+01/01/2018
+	Temps partiel possible
+Non
+	Type d'horaires
+ AdministratifProfil candidat
+	Niveau d'études min. requis
+Bac + 3
+	Niveau d'expérience min. requis
+4 à 6 ansLocalisation du poste
+	Localisation du poste
+France, Ile-de-France, Essonne (91)
+	Site
+
+	PARAY-VIEILLE-POSTE
+
+"

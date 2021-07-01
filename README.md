@@ -2,8 +2,8 @@
 ## Scrappers for Job Site
 
 	[x] 	Richemont					[x] 	Hermes
-	[x] 	Dassault Aviation			[]		
-	[x] 	Air France
+	[x] 	Dassault Aviation			[]		Framatome
+	[x] 	Air France					[]		Engie
 	[] 		Daher
 	[x] 	Sanofi
 	[] 		Air Liquide
@@ -14,12 +14,13 @@
 
 	- Get offers link
 	- Get offers details
-	- Get offers desc
+	- Get offers desc -> Maybe use multiprocessing for performance
 
 ## ----------
 ## To do
 ## ----------
 
 	[]		create function
-		[] 		scrapRichemont()
-		[]		scrapDassaultAviation()
+		[] 		scrapXXXXXX()
+		[]		harmonizeAll()
+		[]		pushTo_db()
